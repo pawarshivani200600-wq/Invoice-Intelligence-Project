@@ -1,0 +1,1499 @@
+invoice_id,vendor,category,invoice_date,due_date,payment_terms,amount,tax_amount,label
+INV-01034,Junction Marketing Group,Software License,2025-04-01,2025-05-16,Net 15,2863.11,343.57,Valid
+INV-01306,Junction Marketing Group,Facilities,2025-02-16,2025-04-17,Net 60,2604.71,130.24,Valid
+INV-01436,Crestline IT Services,IT Services,2025-07-15,2025-08-10,Net 30,1414.29,169.71,Duplicate
+INV-01490,Greenfield Consulting,IT Services,2025-05-19,2025-06-28,Net 45,4251.21,765.22,Duplicate
+INV-00789,Junction Marketing Group,Facilities,2026-02-09,2026-03-26,Net 60,2311.73,277.41,Valid
+INV-00786,Greenfield Consulting,Logistics,2025-10-21,2025-12-20,Net 30,4117.68,741.18,Valid
+INV-00985,Everline Facilities,Marketing,2025-05-16,2025-06-30,Net 15,6348.84,484.62,Amount Anomaly
+INV-00899,Ironclad Security,Logistics,2025-04-26,2025-05-26,Net 60,1824.56,328.42,Valid
+INV-00345,Everline Facilities,Office Supplies,2025-12-04,2026-01-18,Net 45,5.0,632.59,Amount Anomaly
+INV-00245,Ironclad Security,Consulting,2025-09-02,2025-10-17,Net 45,5.0,172.31,Amount Anomaly
+INV-00888,Apex Office Supplies,Security,2026-01-03,2026-01-18,Net 30,3164.09,569.54,Valid
+INV-01125,Falcon Freight Co,Consulting,2026-01-24,2026-03-25,Net 60,360.85,18.04,Valid
+INV-01467,Greenfield Consulting,Office Supplies,2025-05-20,2025-07-18,Net 45,4714.97,235.75,Duplicate
+INV-01381,,Consulting,2025-02-07,2025-03-09,Net 60,2034.41,101.72,Missing Info
+INV-00071,Crestline IT Services,Office Supplies,2025-11-05,2026-01-04,Net 45,5.0,250.84,Amount Anomaly
+INV-00272,Falcon Freight Co,Software License,2025-10-30,2025-12-14,Net 30,1050.89,126.11,Valid
+INV-00817,Horizon Software Inc,Logistics,2026-02-03,2026-03-20,Net 15,1088.88,130.67,Valid
+INV-00999,Falcon Freight Co,Consulting,2025-08-13,2025-09-27,Net 15,1944.84,233.38,Valid
+INV-00462,Crestline IT Services,Security,2025-10-03,2025-12-02,Net 15,1267.2,152.06,Valid
+INV-00052,Everline Facilities,Office Supplies,2026-06-02,2026-08-01,Net 15,8544.63,456.33,Amount Anomaly
+INV-00426,Ironclad Security,Office Supplies,2026-06-03,2026-08-02,Net 45,1853.81,333.69,Valid
+INV-00452,Everline Facilities,Security,2025-08-19,2025-10-03,Net 60,3656.23,182.81,Valid
+INV-00185,Apex Office Supplies,Consulting,2025-12-08,2026-01-07,Net 15,2459.32,122.97,Valid
+INV-01214,Horizon Software Inc,Security,2026-01-01,2026-03-02,Net 15,1823.06,218.77,Valid
+INV-00366,Apex Office Supplies,Consulting,2026-02-16,2026-04-17,Net 15,1726.6,86.33,Valid
+INV-00421,Greenfield Consulting,IT Services,2025-10-15,2025-12-14,Net 30,4650.93,558.11,Valid
+INV-01451,Ironclad Security,Logistics,2025-07-25,2025-08-22,Net 15,953.28,114.39,Duplicate
+INV-01469,Falcon Freight Co,Security,2025-12-23,2026-01-18,Net 30,653.88,78.47,Duplicate
+INV-01472,Junction Marketing Group,Facilities,2025-04-16,2025-05-29,Net 60,2589.3,466.07,Duplicate
+INV-00706,Junction Marketing Group,Software License,2025-06-06,2025-07-21,Net 30,4859.19,230.89,Amount Anomaly
+INV-00204,Bluewave Logistics,Marketing,2025-12-25,2026-02-08,Net 30,3836.47,191.82,Valid
+INV-00482,Everline Facilities,Software License,2025-07-30,2025-08-29,Net 45,3091.64,556.5,Valid
+INV-00803,Ironclad Security,Software License,2026-01-18,2026-02-17,Net 60,1907.54,228.9,Valid
+INV-01498,Bluewave Logistics,Consulting,2026-05-11,2026-06-09,Net 30,4110.15,205.51,Duplicate
+INV-00909,Delta Print Solutions,Software License,2025-08-11,2025-10-10,Net 60,1605.47,192.66,Valid
+INV-00758,Ironclad Security,Marketing,2025-10-29,2025-12-13,Net 45,2323.59,116.18,Valid
+INV-00351,Junction Marketing Group,Consulting,2025-04-25,2025-05-10,Net 30,2511.85,452.13,Valid
+INV-00495,Everline Facilities,Software License,2025-05-01,2025-05-16,Net 45,3366.12,403.93,Valid
+INV-00429,Apex Office Supplies,Consulting,2025-04-11,2025-05-26,Net 60,5.0,59.34,Amount Anomaly
+INV-00077,Horizon Software Inc,Office Supplies,2026-02-14,2026-03-16,Net 15,2691.04,57.89,Amount Anomaly
+INV-00592,Delta Print Solutions,Software License,2025-08-19,2025-09-18,Net 15,10.0,1.2,Valid
+INV-00827,Apex Office Supplies,Marketing,2026-05-12,2026-07-11,Net 60,1325.99,238.68,Valid
+INV-00902,Crestline IT Services,Security,2025-05-07,2025-05-22,Net 45,1241.12,62.06,Valid
+INV-01458,Horizon Software Inc,IT Services,2026-05-10,2026-06-05,Net 60,1230.21,61.51,Duplicate
+INV-01204,Apex Office Supplies,Facilities,2025-12-07,2026-01-06,Net 15,3827.54,459.3,Valid
+INV-00354,Ironclad Security,Office Supplies,2026-03-02,2026-05-01,Net 60,4618.05,271.41,Amount Anomaly
+INV-01085,Falcon Freight Co,Logistics,2025-04-26,2025-06-25,Net 15,1370.02,68.5,Valid
+INV-00463,Bluewave Logistics,Facilities,2026-02-17,2026-04-03,Net 60,5392.1,970.58,Valid
+INV-00307,Junction Marketing Group,Office Supplies,2026-04-27,2026-06-11,Net 15,2195.13,395.12,Valid
+INV-01206,Crestline IT Services,Logistics,2025-02-12,2025-03-14,Net 60,1266.9,152.03,Valid
+INV-01062,Ironclad Security,Software License,2026-01-08,2026-01-23,Net 45,1669.02,83.45,Valid
+INV-01090,Falcon Freight Co,Software License,2026-02-12,2026-03-14,Net 45,10.0,1.8,Valid
+INV-00597,Ironclad Security,IT Services,2026-01-19,2026-03-05,Net 60,1999.93,239.99,Valid
+INV-00941,Falcon Freight Co,Marketing,2025-07-25,2025-08-24,Net 45,859.59,103.15,Valid
+INV-00333,Delta Print Solutions,Facilities,2025-02-23,2025-03-10,Net 60,253.92,30.47,Valid
+INV-00679,Horizon Software Inc,Facilities,2026-01-02,2026-01-17,Net 30,1453.67,261.66,Valid
+INV-00050,Bluewave Logistics,IT Services,2025-05-18,2025-07-02,Net 30,626.79,224.9,Amount Anomaly
+INV-01447,Bluewave Logistics,Security,2025-11-17,2025-12-30,Net 15,4127.59,742.97,Duplicate
+INV-00248,Falcon Freight Co,IT Services,2025-04-16,2025-05-01,Net 30,5654.61,1.2,Amount Anomaly
+INV-01400,Falcon Freight Co,Logistics,2025-01-24,2025-02-08,Net 45,1315.36,65.77,Valid
+INV-01114,Everline Facilities,Logistics,2025-01-30,2025-02-14,Net 30,7162.75,170.04,Amount Anomaly
+INV-01101,Crestline IT Services,IT Services,2026-05-19,2026-06-18,Net 45,1704.87,85.24,Valid
+INV-01221,Falcon Freight Co,Logistics,2025-02-14,2025-04-15,Net 30,1899.45,227.93,Valid
+INV-00068,Greenfield Consulting,Facilities,2025-03-13,2025-04-27,Net 15,5761.46,741.08,Amount Anomaly
+INV-00811,Apex Office Supplies,Software License,2026-05-21,2026-06-20,Net 45,3394.59,407.35,Valid
+INV-00491,Greenfield Consulting,IT Services,2025-09-02,2025-09-17,Net 60,2863.31,204.94,Amount Anomaly
+INV-00310,Ironclad Security,Security,2025-10-23,2025-11-07,Net 45,1301.66,156.2,Valid
+INV-01280,Delta Print Solutions,IT Services,2025-11-08,2026-01-07,Net 15,691.53,124.48,Valid
+INV-01454,Falcon Freight Co,Consulting,2025-08-11,2025-08-21,Net 45,782.54,140.86,Duplicate
+INV-01323,Bluewave Logistics,Consulting,2025-05-24,2025-07-08,Net 45,,431.1,Missing Info
+INV-01109,Apex Office Supplies,Security,2025-05-21,2025-07-05,Net 60,3435.82,412.3,Valid
+INV-01168,Delta Print Solutions,Office Supplies,2025-04-27,2025-05-27,Net 30,10.0,0.5,Valid
+INV-00619,Greenfield Consulting,Facilities,2025-05-18,2025-07-02,Net 30,3994.34,479.32,Valid
+INV-00528,Falcon Freight Co,Marketing,2025-08-08,2025-09-07,Net 60,1715.52,205.86,Valid
+INV-01001,Bluewave Logistics,Logistics,2025-03-30,2025-04-29,Net 15,3455.85,414.7,Valid
+INV-00352,,Consulting,2025-12-02,2026-01-31,Net 60,1204.72,60.24,Missing Info
+INV-00311,Junction Marketing Group,Software License,2025-05-02,2025-06-01,Net 45,2795.66,139.78,Valid
+INV-00611,Horizon Software Inc,Office Supplies,2025-12-07,2026-01-06,Net 15,1092.2,131.06,Valid
+INV-00800,Crestline IT Services,Logistics,2025-11-07,2025-11-22,Net 45,891.31,44.57,Valid
+INV-00431,Apex Office Supplies,Software License,2026-05-10,2026-05-25,Net 15,2466.06,295.93,Valid
+INV-00919,Junction Marketing Group,Facilities,2025-11-21,2026-01-05,Net 30,2577.46,463.94,Valid
+INV-00030,Bluewave Logistics,Consulting,2025-02-02,2025-03-19,Net 45,6659.05,171.02,Amount Anomaly
+INV-00240,Delta Print Solutions,Consulting,2025-12-16,2026-02-14,Net 30,5.0,20.97,Amount Anomaly
+INV-00818,Ironclad Security,Security,2026-06-18,2026-07-03,Net 45,1510.28,181.23,Valid
+INV-00238,Ironclad Security,IT Services,2026-01-21,2026-03-07,Net 60,,117.58,Missing Info
+INV-00066,Falcon Freight Co,Consulting,2026-03-23,2026-04-07,Net 45,4534.03,104.5,Amount Anomaly
+INV-00951,Delta Print Solutions,Marketing,2025-08-18,2025-09-17,Net 45,283.62,51.05,Valid
+INV-01465,Horizon Software Inc,Security,2026-05-13,2026-07-11,Net 30,1335.57,66.78,Duplicate
+INV-00712,Junction Marketing Group,Marketing,2025-08-06,2025-08-21,Net 60,2549.37,458.89,Valid
+INV-00632,Everline Facilities,Marketing,2025-08-25,2025-10-24,Net 60,3172.68,380.72,Valid
+INV-01138,Apex Office Supplies,Security,2025-04-12,2025-04-27,Net 15,1172.61,58.63,Valid
+INV-00480,Bluewave Logistics,Facilities,2026-01-29,2026-03-15,Net 30,1142.94,488.84,Amount Anomaly
+INV-01076,Everline Facilities,Security,2025-06-25,2025-08-09,Net 45,3182.85,159.14,Valid
+INV-01167,Everline Facilities,Consulting,2025-10-21,2025-11-20,Net 60,3752.01,450.24,Valid
+INV-00968,Greenfield Consulting,Software License,2026-02-08,2026-03-25,Net 60,5824.46,762.14,Amount Anomaly
+INV-01194,Horizon Software Inc,Logistics,2025-07-23,2025-09-06,Net 15,,309.2,Missing Info
+INV-00549,Junction Marketing Group,Facilities,2025-04-17,2025-06-16,Net 15,2808.75,140.44,Valid
+INV-00124,Junction Marketing Group,Consulting,2025-03-03,2025-03-18,Net 45,2069.74,103.49,Valid
+INV-00323,Ironclad Security,Logistics,2026-04-28,2026-05-13,Net 30,2062.07,371.17,Valid
+INV-01047,Everline Facilities,Office Supplies,2025-07-27,2025-09-10,Net 15,3889.28,194.46,Valid
+INV-00176,Delta Print Solutions,Facilities,2026-04-28,2026-05-13,Net 30,1366.27,245.93,Valid
+INV-00715,Delta Print Solutions,Logistics,2025-06-19,2025-07-19,Net 30,,107.97,Missing Info
+INV-00763,Greenfield Consulting,Logistics,2025-12-17,2026-01-01,Net 60,4227.48,760.95,Valid
+INV-00652,Falcon Freight Co,Facilities,2025-02-25,2025-03-27,Net 60,1764.15,211.7,Valid
+INV-01215,Crestline IT Services,Consulting,2025-05-07,2025-06-21,Net 45,1085.46,54.27,Valid
+INV-00045,Delta Print Solutions,Software License,2025-11-18,2025-12-18,Net 30,5.0,50.75,Amount Anomaly
+INV-00060,Delta Print Solutions,IT Services,2025-10-01,2025-10-31,Net 60,1341.91,241.54,Valid
+INV-00241,Crestline IT Services,Office Supplies,2025-03-21,2025-05-05,Net 45,1467.12,73.36,Valid
+INV-00024,Everline Facilities,IT Services,2025-09-03,2025-09-18,Net 15,3322.28,166.11,Valid
+INV-00606,Greenfield Consulting,Marketing,2025-12-06,2026-01-20,Net 60,4363.22,523.59,Valid
+INV-00433,Delta Print Solutions,Security,2026-06-18,2026-08-17,Net 15,398.42,47.81,Valid
+INV-01266,Bluewave Logistics,Logistics,2025-06-07,2025-07-22,Net 15,3714.83,445.78,Valid
+INV-00745,Greenfield Consulting,Consulting,2025-05-22,2025-06-06,Net 60,4102.87,738.52,Valid
+INV-00507,Delta Print Solutions,Software License,2025-09-09,2025-10-09,Net 15,5396.6,14.67,Amount Anomaly
+INV-00125,Bluewave Logistics,IT Services,2025-06-10,2025-07-10,Net 30,3912.04,195.6,Valid
+INV-00343,Greenfield Consulting,Security,2025-04-08,2025-05-08,Net 45,4326.23,216.31,Valid
+INV-00797,Ironclad Security,Logistics,2026-04-01,2026-05-01,Net 60,2545.31,458.16,Valid
+INV-01218,Bluewave Logistics,IT Services,2025-12-03,2025-12-18,Net 60,5133.0,615.96,Valid
+INV-00116,Delta Print Solutions,Office Supplies,2026-01-05,2026-02-04,Net 30,5803.09,97.18,Amount Anomaly
+INV-01088,Everline Facilities,Security,2025-07-20,2025-08-04,Net 15,7436.18,156.09,Amount Anomaly
+INV-00695,Ironclad Security,Marketing,2025-04-19,2025-06-03,Net 15,1967.7,354.19,Valid
+INV-00304,Crestline IT Services,Marketing,2026-05-26,2026-07-25,Net 60,,140.98,Missing Info
+INV-00702,Junction Marketing Group,IT Services,2025-02-25,2025-04-26,Net 45,2489.42,448.1,Valid
+INV-00627,Bluewave Logistics,Consulting,2025-04-19,2025-06-18,Net 45,6657.4,182.96,Amount Anomaly
+INV-00142,Horizon Software Inc,Consulting,2026-05-12,2026-05-27,Net 30,1426.43,71.32,Valid
+INV-00995,Junction Marketing Group,Marketing,2025-10-07,2025-11-21,Net 15,2844.06,341.29,Valid
+INV-00766,Delta Print Solutions,Facilities,2025-08-23,2025-09-22,Net 30,10.0,0.5,Valid
+INV-00673,Apex Office Supplies,Security,2025-09-15,2025-10-15,Net 30,2729.67,491.34,Valid
+INV-00844,Ironclad Security,Facilities,2026-03-30,2026-05-14,Net 45,2164.88,259.79,Valid
+INV-00298,Apex Office Supplies,Security,2025-06-11,2025-08-10,Net 60,2808.17,336.98,Valid
+INV-00232,Apex Office Supplies,IT Services,2026-04-07,2026-04-22,Net 30,1685.31,202.24,Valid
+INV-00079,Ironclad Security,Logistics,2025-09-13,2025-09-28,Net 60,4932.89,202.3,Amount Anomaly
+INV-00530,Greenfield Consulting,Marketing,2026-05-06,2026-05-21,Net 60,4047.85,202.39,Valid
+INV-01042,Greenfield Consulting,IT Services,2025-07-23,2025-09-06,Net 45,2401.25,226.88,Amount Anomaly
+INV-00571,Apex Office Supplies,Security,2026-05-30,2026-06-29,Net 30,1833.79,91.69,Valid
+INV-00016,Junction Marketing Group,Consulting,2026-03-15,,Net 30,3006.59,360.79,Missing Info
+INV-00959,Crestline IT Services,Security,2025-03-21,2025-05-20,Net 45,3080.93,55.44,Amount Anomaly
+INV-00600,Junction Marketing Group,Logistics,2026-02-18,2026-04-04,Net 15,2483.02,446.94,Valid
+INV-01189,Everline Facilities,Logistics,2025-11-18,2025-12-03,Net 30,3234.12,161.71,Valid
+INV-00260,Bluewave Logistics,Security,2026-06-23,2026-07-08,Net 15,5.0,484.06,Amount Anomaly
+INV-00382,Greenfield Consulting,Logistics,2025-02-16,2025-03-18,Net 15,4582.62,824.87,Valid
+INV-00271,Greenfield Consulting,IT Services,2025-07-04,2025-08-18,Net 15,4208.25,504.99,Valid
+INV-01431,Greenfield Consulting,Logistics,2025-10-26,2025-12-20,Net 30,4117.68,741.18,Duplicate
+INV-00916,Horizon Software Inc,Marketing,2025-05-18,2025-06-02,Net 45,1747.84,314.61,Valid
+INV-00169,Everline Facilities,Facilities,2026-03-28,2026-04-12,Net 30,3071.91,552.94,Valid
+INV-00362,Ironclad Security,Security,2026-01-24,2026-02-23,Net 45,1954.77,97.74,Valid
+INV-00616,Apex Office Supplies,Facilities,2025-09-12,2025-10-12,Net 45,3356.3,604.13,Valid
+INV-01401,Ironclad Security,Marketing,2025-04-14,2025-06-09,Net 60,986.05,49.3,Duplicate
+INV-00782,Horizon Software Inc,Facilities,2025-04-09,2025-06-08,Net 45,1473.86,265.29,Valid
+INV-01260,Falcon Freight Co,Consulting,2026-03-17,2026-04-01,Net 15,703.02,126.54,Valid
+INV-01019,Horizon Software Inc,Facilities,2026-04-06,2026-04-21,Net 15,1207.86,60.39,Valid
+INV-01134,Bluewave Logistics,Security,2025-08-27,2025-10-26,Net 45,3354.35,603.78,Valid
+INV-00472,Delta Print Solutions,IT Services,2026-03-16,2026-03-31,Net 15,10.0,1.8,Valid
+INV-00359,Greenfield Consulting,IT Services,2026-04-05,2026-06-04,Net 30,4781.35,573.76,Valid
+INV-00874,,Security,2026-06-05,2026-06-20,Net 15,4521.66,542.6,Missing Info
+INV-01369,Everline Facilities,Logistics,2025-06-28,2025-07-28,Net 45,3647.05,437.65,Valid
+INV-00340,Delta Print Solutions,,2025-04-26,2025-06-10,Net 45,53.27,2.66,Missing Info
+INV-00853,Junction Marketing Group,Software License,2025-11-04,2025-11-19,Net 15,2643.86,475.89,Valid
+INV-00044,Junction Marketing Group,Facilities,2025-02-10,2025-02-25,Net 45,4475.59,328.82,Amount Anomaly
+INV-00414,Bluewave Logistics,Software License,2025-06-21,2025-08-20,Net 45,2881.08,345.73,Valid
+INV-01081,Falcon Freight Co,Security,2025-12-19,2026-01-18,Net 30,653.88,78.47,Valid
+INV-00221,Delta Print Solutions,IT Services,2026-03-23,2026-05-22,Net 60,5168.15,1.8,Amount Anomaly
+INV-00553,Greenfield Consulting,Software License,2026-03-25,2026-05-24,Net 60,,189.04,Missing Info
+INV-00102,Bluewave Logistics,Security,2026-03-20,2026-05-04,Net 30,7251.03,573.72,Amount Anomaly
+INV-00108,Ironclad Security,Software License,2025-07-15,2025-07-30,Net 60,1213.96,60.7,Valid
+INV-00454,Ironclad Security,Security,2026-01-11,2026-01-26,Net 30,1599.99,288.0,Valid
+INV-01481,Falcon Freight Co,Marketing,2025-07-15,2025-09-09,Net 60,269.15,13.46,Duplicate
+INV-00813,,Software License,2025-05-30,2025-06-14,Net 15,3575.87,429.1,Missing Info
+INV-00536,Bluewave Logistics,Office Supplies,2025-09-11,2025-10-11,Net 30,3713.17,445.58,Valid
+INV-00629,Crestline IT Services,Security,2025-02-10,2025-04-11,Net 45,1150.68,57.53,Valid
+INV-01037,Apex Office Supplies,Security,2025-07-18,2025-08-02,Net 60,2563.61,128.18,Valid
+INV-00479,Junction Marketing Group,IT Services,2026-03-30,2026-04-29,Net 30,4540.12,145.33,Amount Anomaly
+INV-01183,Everline Facilities,Marketing,2025-11-05,2025-11-20,Net 30,3338.39,166.92,Valid
+INV-00129,Bluewave Logistics,Logistics,2025-08-19,2025-09-18,Net 15,3928.87,471.46,Valid
+INV-00799,Bluewave Logistics,Software License,2026-03-29,2026-05-13,Net 45,4329.56,519.55,Valid
+INV-00412,Ironclad Security,Software License,2025-09-06,2025-10-06,Net 30,2189.7,394.15,Valid
+INV-01031,Crestline IT Services,Security,2025-04-02,2025-05-17,Net 30,1338.55,160.63,Valid
+INV-00383,Everline Facilities,Consulting,2026-03-04,2026-04-18,Net 45,3136.79,156.84,Valid
+INV-00666,Ironclad Security,Marketing,2026-05-07,2026-07-06,Net 60,5.0,241.46,Amount Anomaly
+INV-00275,Ironclad Security,Security,2025-06-13,2025-06-28,Net 15,1771.83,88.59,Valid
+INV-00923,Falcon Freight Co,Consulting,2025-08-06,2025-08-21,Net 45,782.54,140.86,Valid
+INV-01233,Junction Marketing Group,IT Services,2025-02-18,2025-03-05,Net 60,2514.79,125.74,Valid
+INV-00033,Falcon Freight Co,Office Supplies,2026-03-10,2026-05-09,Net 15,860.29,103.23,Valid
+INV-00713,Crestline IT Services,Marketing,2026-01-10,2026-03-11,Net 30,1089.17,54.46,Valid
+INV-00783,Falcon Freight Co,Office Supplies,2026-01-04,2026-02-18,Net 60,614.69,73.76,Valid
+INV-01069,Delta Print Solutions,Software License,2026-04-14,2026-04-29,Net 30,1031.15,51.56,Valid
+INV-01344,Apex Office Supplies,IT Services,2025-12-09,2026-01-23,Net 60,2325.79,116.29,Valid
+INV-00498,Falcon Freight Co,IT Services,2025-06-11,2025-07-26,Net 30,10.0,0.5,Valid
+INV-00325,Crestline IT Services,Facilities,2026-04-16,2026-05-31,Net 45,1030.08,185.41,Valid
+INV-00278,Falcon Freight Co,Logistics,2026-03-31,2026-04-15,Net 45,6710.65,225.8,Amount Anomaly
+INV-01248,Bluewave Logistics,Marketing,2026-03-19,2026-05-18,Net 15,3316.09,397.93,Valid
+INV-01217,Ironclad Security,Consulting,2025-07-04,2025-09-02,Net 60,1827.83,91.39,Valid
+INV-01281,Falcon Freight Co,Office Supplies,2025-09-23,2025-11-07,Net 15,1308.53,65.43,Valid
+INV-01232,Crestline IT Services,Software License,2025-11-04,2025-12-04,Net 45,1041.01,187.38,Valid
+INV-00164,Greenfield Consulting,Consulting,2025-09-14,2025-11-13,Net 60,4922.33,590.68,Valid
+INV-01284,Greenfield Consulting,Facilities,2026-06-17,2026-07-17,Net 30,4325.98,216.3,Valid
+INV-00262,Bluewave Logistics,IT Services,2025-12-20,2026-01-19,Net 45,6839.14,626.84,Amount Anomaly
+INV-00290,Ironclad Security,Office Supplies,2025-07-06,2025-08-05,Net 15,1923.92,230.87,Valid
+INV-01091,Greenfield Consulting,Facilities,2026-01-17,2026-02-01,Net 45,4398.35,527.8,Valid
+INV-01133,Bluewave Logistics,Consulting,2026-01-08,2026-02-07,Net 60,4621.62,554.59,Valid
+INV-01097,Junction Marketing Group,Software License,2025-05-21,2025-06-20,Net 45,2708.13,135.41,Valid
+INV-00430,Falcon Freight Co,Logistics,2026-02-05,2026-04-06,Net 45,1114.26,200.57,Valid
+INV-01304,Ironclad Security,Consulting,2025-07-04,2025-07-19,Net 30,1781.71,213.81,Valid
+INV-01186,Greenfield Consulting,Marketing,2025-04-13,2025-05-13,Net 15,4139.23,745.06,Valid
+INV-01149,Falcon Freight Co,Facilities,2026-01-25,2026-02-09,Net 45,1389.15,166.7,Valid
+INV-00193,Horizon Software Inc,IT Services,2026-02-16,2026-04-17,Net 60,1435.84,258.45,Valid
+INV-01074,Ironclad Security,Facilities,2025-12-10,2026-02-08,Net 45,1777.33,319.92,Valid
+INV-00317,Apex Office Supplies,IT Services,2026-01-13,2026-02-27,Net 60,2243.46,403.82,Valid
+INV-00590,Horizon Software Inc,Marketing,2025-12-25,2026-02-08,Net 15,1746.84,87.34,Valid
+INV-00064,Ironclad Security,Marketing,2025-12-06,2025-12-21,Net 30,940.24,47.01,Valid
+INV-00775,Falcon Freight Co,Consulting,2025-07-08,2025-09-06,Net 60,927.28,111.27,Valid
+INV-01066,Ironclad Security,IT Services,2026-03-10,2026-04-24,Net 45,1705.87,85.29,Valid
+INV-01099,Ironclad Security,Office Supplies,2026-04-20,2026-05-20,Net 30,1939.39,96.97,Valid
+INV-01139,Crestline IT Services,Marketing,2026-01-27,2026-03-13,Net 15,1545.59,77.28,Valid
+INV-01428,Junction Marketing Group,Office Supplies,2025-05-31,2025-07-29,Net 30,2146.46,257.58,Duplicate
+INV-00523,Apex Office Supplies,Software License,2025-08-16,2025-09-15,Net 45,2955.75,147.79,Valid
+INV-00986,Bluewave Logistics,Security,2025-06-28,2025-07-28,Net 45,4273.91,769.3,Valid
+INV-01441,Greenfield Consulting,Facilities,2026-04-12,2026-05-08,Net 60,4483.19,537.98,Duplicate
+INV-00199,Everline Facilities,Security,2026-01-19,2026-02-18,Net 15,8181.07,543.1,Amount Anomaly
+INV-00276,Crestline IT Services,Facilities,2025-03-10,2025-04-09,Net 45,1098.95,197.81,Valid
+INV-01466,Bluewave Logistics,Security,2026-06-08,2026-07-04,Net 30,3542.04,177.1,Duplicate
+INV-00926,Delta Print Solutions,Security,2025-12-05,2026-01-19,Net 60,1377.61,247.97,Valid
+INV-01157,Greenfield Consulting,IT Services,2025-07-26,2025-09-24,Net 30,4271.9,768.94,Valid
+INV-00219,Greenfield Consulting,Office Supplies,2025-10-24,2025-11-08,Net 45,2165.83,573.49,Amount Anomaly
+INV-01392,Junction Marketing Group,Marketing,2025-05-22,2025-07-06,Net 45,2899.95,145.0,Valid
+INV-00031,Horizon Software Inc,Security,2025-08-08,2025-09-07,Net 30,1213.01,218.34,Valid
+INV-00057,Falcon Freight Co,Consulting,2025-02-10,2025-03-27,Net 15,564.72,28.24,Valid
+INV-01209,Horizon Software Inc,Marketing,2025-10-15,2025-11-29,Net 45,1275.9,153.11,Valid
+INV-01205,Apex Office Supplies,Software License,2025-09-17,2025-11-16,Net 45,1276.32,153.16,Valid
+INV-00494,Ironclad Security,Facilities,2026-06-14,2026-07-29,Net 30,1480.76,74.04,Valid
+INV-00428,Junction Marketing Group,Software License,2025-02-15,2025-04-16,Net 15,4762.77,290.0,Amount Anomaly
+INV-00974,Ironclad Security,Facilities,2026-03-11,2026-05-10,Net 30,1881.65,225.8,Valid
+INV-00577,Junction Marketing Group,Facilities,2025-04-14,2025-05-29,Net 60,2589.3,466.07,Valid
+INV-01005,Everline Facilities,IT Services,2025-09-29,2025-10-29,Net 60,3516.44,421.97,Valid
+INV-00848,Everline Facilities,Consulting,2025-01-07,2025-02-21,Net 45,4274.73,213.74,Valid
+INV-01435,Greenfield Consulting,Consulting,2025-06-08,2025-08-04,Net 60,4166.08,749.89,Duplicate
+INV-01235,Everline Facilities,Security,2025-03-25,2025-04-09,Net 30,3402.11,170.11,Valid
+INV-01378,Bluewave Logistics,Software License,2026-04-27,2026-05-12,Net 45,3864.84,193.24,Valid
+INV-00755,Bluewave Logistics,Facilities,2025-04-03,2025-05-18,Net 45,4161.34,749.04,Valid
+INV-00620,Crestline IT Services,Consulting,2026-02-18,2026-03-05,Net 30,2930.57,42.79,Amount Anomaly
+INV-00830,Everline Facilities,Office Supplies,2025-09-27,2025-11-11,Net 60,3498.35,419.8,Valid
+INV-01135,Junction Marketing Group,Security,2025-10-07,2025-12-06,Net 60,4498.65,257.1,Amount Anomaly
+INV-00100,Junction Marketing Group,Software License,2025-02-12,2025-03-29,Net 45,2535.38,456.37,Valid
+INV-00701,Crestline IT Services,IT Services,2025-08-15,2025-09-29,Net 30,1225.98,61.3,Valid
+INV-00825,Horizon Software Inc,Facilities,2025-08-27,2025-10-11,Net 60,1306.92,235.25,Valid
+INV-01146,Horizon Software Inc,Marketing,2025-06-10,2025-06-25,Net 60,1841.43,220.97,Valid
+INV-01423,Falcon Freight Co,Software License,2026-02-28,2026-04-27,Net 15,62.93,7.55,Duplicate
+INV-00927,Apex Office Supplies,Security,2025-05-20,2025-07-19,Net 45,2683.16,134.16,Valid
+INV-00945,Bluewave Logistics,Security,2025-11-15,2025-12-30,Net 15,4127.59,742.97,Valid
+INV-01027,Delta Print Solutions,IT Services,2025-02-16,2025-03-18,Net 15,1523.27,182.79,Valid
+INV-00840,Bluewave Logistics,Consulting,2025-08-10,2025-08-25,Net 60,3497.72,174.89,Valid
+INV-00837,Falcon Freight Co,Consulting,2025-08-15,2025-08-30,Net 60,96.15,4.81,Valid
+INV-01171,Everline Facilities,Office Supplies,2025-10-12,,Net 60,2619.8,471.56,Missing Info
+INV-00527,Horizon Software Inc,Software License,2025-01-31,2025-04-01,Net 30,5.0,259.06,Amount Anomaly
+INV-01461,Everline Facilities,Consulting,2025-05-29,2025-07-09,Net 30,3471.7,624.91,Duplicate
+INV-01115,Delta Print Solutions,Logistics,2025-11-11,2025-12-11,Net 15,988.36,49.42,Valid
+INV-00963,Crestline IT Services,Security,2026-04-09,2026-05-24,Net 30,870.74,104.49,Valid
+INV-00967,Ironclad Security,Office Supplies,2026-01-03,2026-01-18,Net 30,1417.19,170.06,Valid
+INV-01164,Horizon Software Inc,Office Supplies,2025-10-02,2025-12-01,Net 30,1066.17,191.91,Valid
+INV-00937,Ironclad Security,Office Supplies,2025-05-16,2025-06-15,Net 60,5032.08,231.16,Amount Anomaly
+INV-00237,Everline Facilities,IT Services,2026-02-06,2026-03-08,Net 45,4469.08,804.43,Valid
+INV-01384,Bluewave Logistics,Facilities,2025-10-30,2025-12-29,Net 30,3453.0,621.54,Valid
+INV-01169,Everline Facilities,Software License,2026-04-21,2026-06-20,Net 60,2615.54,470.8,Valid
+INV-01444,Bluewave Logistics,Software License,2025-04-02,2025-05-13,Net 30,4972.6,895.07,Duplicate
+INV-01044,Greenfield Consulting,Security,2025-08-14,2025-08-29,Net 15,4153.84,498.46,Valid
+INV-00465,Falcon Freight Co,Software License,2025-03-06,2025-05-05,Net 30,5.0,24.65,Amount Anomaly
+INV-00209,Crestline IT Services,Facilities,2026-01-14,2026-02-28,Net 15,78.08,198.6,Amount Anomaly
+INV-00355,Everline Facilities,Office Supplies,2025-01-23,2025-03-24,Net 30,5.0,386.35,Amount Anomaly
+INV-01075,Horizon Software Inc,Marketing,2026-06-27,2026-08-26,Net 30,,156.22,Missing Info
+INV-01480,Crestline IT Services,Facilities,2025-12-28,2026-01-08,Net 45,951.84,47.59,Duplicate
+INV-00059,Greenfield Consulting,Facilities,2025-01-26,2025-02-25,Net 60,3594.63,647.03,Valid
+INV-00515,Horizon Software Inc,Consulting,2025-10-06,2025-11-05,Net 30,3097.81,73.2,Amount Anomaly
+INV-00731,Junction Marketing Group,Facilities,2026-06-08,2026-07-23,Net 60,2500.5,125.03,Valid
+INV-01150,Greenfield Consulting,Consulting,2025-12-26,2026-01-10,Net 30,4852.61,873.47,Valid
+INV-00728,Apex Office Supplies,Software License,2025-06-20,2025-08-04,Net 15,2205.4,110.27,Valid
+INV-00719,Apex Office Supplies,Marketing,2025-02-10,2025-03-27,Net 45,2973.25,148.66,Valid
+INV-01415,Crestline IT Services,Consulting,2025-04-29,2025-06-09,Net 15,1252.99,62.65,Duplicate
+INV-01067,Falcon Freight Co,IT Services,2026-04-09,2026-06-08,Net 60,342.1,61.58,Valid
+INV-01119,Bluewave Logistics,Consulting,2025-05-07,2025-06-06,Net 30,3667.24,660.1,Valid
+INV-00637,Greenfield Consulting,Security,2026-04-13,2026-05-28,Net 60,4179.14,501.5,Valid
+INV-01394,Ironclad Security,Consulting,2025-06-02,2025-08-01,Net 30,1751.87,87.59,Valid
+INV-00814,Ironclad Security,Marketing,2026-04-27,2026-05-27,Net 60,1737.4,86.87,Valid
+INV-01354,Junction Marketing Group,Logistics,2025-03-11,2025-04-10,Net 45,2174.9,391.48,Valid
+INV-00234,Falcon Freight Co,Facilities,2025-10-17,2025-12-16,Net 15,5.0,108.97,Amount Anomaly
+INV-00904,Ironclad Security,Facilities,2026-01-25,2026-02-09,Net 30,1959.79,97.99,Valid
+INV-00197,Greenfield Consulting,Facilities,2026-04-08,2026-05-08,Net 60,4483.19,537.98,Valid
+INV-01320,Junction Marketing Group,Office Supplies,2025-10-24,2025-11-23,Net 60,2341.33,117.07,Valid
+INV-00082,Ironclad Security,Security,2026-05-12,2026-06-11,Net 15,1991.09,238.93,Valid
+INV-01403,Bluewave Logistics,IT Services,2026-04-14,2026-06-08,Net 15,3769.62,188.48,Duplicate
+INV-00768,Ironclad Security,Facilities,2025-02-13,2025-04-14,Net 60,2154.43,258.53,Valid
+INV-01247,Delta Print Solutions,Facilities,2025-10-29,2025-12-28,Net 15,,57.1,Missing Info
+INV-00112,Ironclad Security,Security,2025-12-05,2026-01-19,Net 45,1604.44,288.8,Valid
+INV-01275,Apex Office Supplies,Software License,2025-10-14,2025-11-13,Net 60,2482.89,446.92,Valid
+INV-01379,Horizon Software Inc,Facilities,2026-06-16,2026-08-15,Net 45,1234.78,61.74,Valid
+INV-00983,Junction Marketing Group,Office Supplies,2025-02-22,2025-04-08,Net 45,4245.53,408.63,Amount Anomaly
+INV-00375,Falcon Freight Co,Marketing,2025-04-05,2025-05-05,Net 60,10.0,0.5,Valid
+INV-01264,Ironclad Security,IT Services,2025-04-18,2025-05-18,Net 30,1724.63,310.43,Valid
+INV-00911,Apex Office Supplies,Facilities,2025-07-09,2025-08-08,Net 15,1757.58,87.88,Valid
+INV-01390,Bluewave Logistics,Consulting,2025-03-15,2025-04-29,Net 45,3401.15,170.06,Valid
+INV-00381,Bluewave Logistics,Facilities,2026-04-26,2026-06-10,Net 45,122.07,145.24,Amount Anomaly
+INV-01161,Bluewave Logistics,Facilities,2025-11-06,2025-12-21,Net 30,2915.22,349.83,Valid
+INV-01273,Greenfield Consulting,Office Supplies,2025-02-07,2025-03-09,Net 45,3971.65,714.9,Valid
+INV-01112,Bluewave Logistics,Facilities,2025-05-15,2025-05-30,Net 45,3402.46,408.3,Valid
+INV-00434,Horizon Software Inc,Marketing,2026-04-09,,Net 15,1076.31,53.82,Missing Info
+INV-01080,Horizon Software Inc,,2025-09-24,2025-11-08,Net 15,1299.78,64.99,Missing Info
+INV-01486,Greenfield Consulting,IT Services,2025-10-15,2025-12-11,Net 60,4310.03,517.2,Duplicate
+INV-01366,Apex Office Supplies,Facilities,2026-01-07,2026-01-22,Net 15,1811.93,90.6,Valid
+INV-01132,Bluewave Logistics,IT Services,2025-05-27,2025-07-26,Net 30,8126.06,365.58,Amount Anomaly
+INV-00621,Delta Print Solutions,Facilities,2025-01-23,2025-02-22,Net 15,1342.8,67.14,Valid
+INV-00427,Ironclad Security,Facilities,2025-03-29,2025-04-13,Net 30,902.91,45.15,Valid
+INV-00501,Ironclad Security,Consulting,2026-03-06,2026-04-05,Net 60,2103.18,252.38,Valid
+INV-00423,Horizon Software Inc,Security,2025-10-26,2025-11-10,Net 30,3282.28,111.5,Amount Anomaly
+INV-01365,Horizon Software Inc,Software License,2025-12-06,2026-02-04,Net 30,1473.04,73.65,Valid
+INV-01345,Delta Print Solutions,Consulting,2025-12-15,2025-12-30,Net 15,750.56,90.07,Valid
+INV-01166,Greenfield Consulting,Consulting,2026-02-25,2026-04-11,Net 60,4592.1,229.61,Valid
+INV-00681,Ironclad Security,Consulting,2026-02-18,2026-03-05,Net 30,5.0,242.58,Amount Anomaly
+INV-00757,Everline Facilities,IT Services,2025-06-29,2025-08-28,Net 15,7284.43,644.71,Amount Anomaly
+INV-00255,Crestline IT Services,Marketing,2026-06-25,2026-08-24,Net 30,5.0,75.18,Amount Anomaly
+INV-01094,Crestline IT Services,Marketing,2025-03-30,2025-04-29,Net 60,1602.49,80.12,Valid
+INV-01246,Horizon Software Inc,Security,2026-05-12,2026-07-11,Net 30,1335.57,66.78,Valid
+INV-01337,Ironclad Security,Office Supplies,2026-04-10,2026-04-25,Net 45,2122.13,254.66,Valid
+INV-01092,Everline Facilities,Security,2026-04-02,2026-04-17,Net 60,2577.55,128.88,Valid
+INV-01450,Delta Print Solutions,Logistics,2025-06-30,2025-07-13,Net 60,1804.29,324.77,Duplicate
+INV-00555,Crestline IT Services,Marketing,2026-04-08,2026-04-23,Net 15,2546.44,60.3,Amount Anomaly
+INV-01488,Bluewave Logistics,Office Supplies,2025-04-26,2025-06-23,Net 30,4397.73,791.59,Duplicate
+INV-00087,Horizon Software Inc,Software License,2025-01-07,2025-02-21,Net 60,1239.94,148.79,Valid
+INV-01420,Bluewave Logistics,Logistics,2026-04-21,2026-05-01,Net 60,3899.58,194.98,Duplicate
+INV-00266,Falcon Freight Co,Security,2025-11-14,2026-01-13,Net 45,5.0,199.51,Amount Anomaly
+INV-00288,Horizon Software Inc,IT Services,2026-06-23,2026-08-22,Net 30,1457.61,174.91,Valid
+INV-01482,Ironclad Security,Marketing,2026-04-29,2026-05-27,Net 60,1737.4,86.87,Duplicate
+INV-00406,Bluewave Logistics,Software License,2025-03-26,2025-05-10,Net 30,4705.1,235.26,Valid
+INV-01129,Junction Marketing Group,Software License,2025-11-16,2026-01-15,Net 45,2391.16,119.56,Valid
+INV-00533,Junction Marketing Group,Marketing,2026-05-30,2026-07-14,Net 30,449.08,306.78,Amount Anomaly
+INV-00417,Apex Office Supplies,Software License,2026-02-10,2026-03-27,Net 45,1979.2,356.26,Valid
+INV-00910,Bluewave Logistics,Marketing,2025-01-07,2025-02-06,Net 30,3003.35,540.6,Valid
+INV-00222,Everline Facilities,Logistics,2025-12-14,2026-01-13,Net 15,3316.08,397.93,Valid
+INV-00114,Bluewave Logistics,Security,2025-07-09,2025-08-08,Net 45,3532.64,176.63,Valid
+INV-00572,Crestline IT Services,Office Supplies,2025-08-05,2025-09-04,Net 60,1024.3,51.22,Valid
+INV-00583,Falcon Freight Co,IT Services,2025-10-03,2025-12-02,Net 30,246.55,44.38,Valid
+INV-00175,Falcon Freight Co,Facilities,2025-09-26,2025-11-25,Net 15,244.82,44.07,Valid
+INV-00535,Horizon Software Inc,Consulting,2026-06-27,2026-08-11,Net 30,1337.99,240.84,Valid
+INV-00630,Delta Print Solutions,IT Services,2025-01-03,2025-01-18,Net 15,568.75,102.38,Valid
+INV-01175,Bluewave Logistics,Facilities,2025-09-01,2025-09-16,Net 60,3848.67,461.84,Valid
+INV-01086,Everline Facilities,Consulting,2025-01-26,2025-03-27,Net 60,1479.86,266.37,Valid
+INV-01287,Delta Print Solutions,Software License,2026-04-02,2026-04-17,Net 60,637.8,76.54,Valid
+INV-00286,Horizon Software Inc,Facilities,2025-01-27,2025-03-13,Net 60,1190.28,214.25,Valid
+INV-01024,Bluewave Logistics,IT Services,2026-04-13,2026-05-13,Net 15,,780.75,Missing Info
+INV-00850,Falcon Freight Co,Facilities,2025-06-09,2025-07-09,Net 30,290.64,34.88,Valid
+INV-01346,Junction Marketing Group,Security,2026-03-26,2026-04-10,Net 15,2619.78,471.56,Valid
+INV-00032,Horizon Software Inc,IT Services,2026-02-21,2026-03-23,Net 60,1559.64,77.98,Valid
+INV-00765,Delta Print Solutions,Consulting,2026-05-26,2026-06-25,Net 45,886.89,44.34,Valid
+INV-00211,Everline Facilities,Security,2026-03-30,2026-05-29,Net 60,3243.31,389.2,Valid
+INV-00969,Greenfield Consulting,Logistics,2026-03-22,2026-04-21,Net 60,4245.1,764.12,Valid
+INV-01198,Everline Facilities,Logistics,2025-10-22,2025-12-21,Net 60,3738.08,448.57,Valid
+INV-00809,Apex Office Supplies,Marketing,2025-01-23,2025-02-22,Net 45,1844.4,92.22,Valid
+INV-00416,Junction Marketing Group,Logistics,2025-07-20,2025-09-18,Net 45,1824.11,91.21,Valid
+INV-00932,Falcon Freight Co,,2025-02-02,2025-03-19,Net 60,53.68,6.44,Missing Info
+INV-00368,Delta Print Solutions,Consulting,2025-11-06,2025-12-06,Net 60,5216.22,70.2,Amount Anomaly
+INV-00189,Delta Print Solutions,Marketing,2025-11-28,2025-12-13,Net 15,10.0,0.5,Valid
+INV-00372,Ironclad Security,Marketing,2026-04-30,2026-05-30,Net 30,2745.88,137.29,Valid
+INV-01118,Bluewave Logistics,Marketing,2025-09-17,,Net 15,4029.38,201.47,Missing Info
+INV-00487,Apex Office Supplies,Marketing,2025-03-03,2025-05-02,Net 60,1114.83,200.67,Valid
+INV-00778,Ironclad Security,Logistics,2026-03-19,2026-05-18,Net 30,1272.43,63.62,Valid
+INV-01324,Falcon Freight Co,Consulting,2025-09-25,2025-11-24,Net 45,725.37,87.04,Valid
+INV-00901,Junction Marketing Group,Marketing,2025-07-26,2025-09-24,Net 45,579.49,131.42,Amount Anomaly
+INV-00084,Crestline IT Services,Logistics,2025-06-04,2025-07-04,Net 30,1153.01,138.36,Valid
+INV-00671,Ironclad Security,Marketing,2026-02-03,2026-03-05,Net 15,1756.78,316.22,Valid
+INV-00049,Crestline IT Services,Office Supplies,2026-03-25,2026-05-09,Net 45,1372.06,246.97,Valid
+INV-00156,Junction Marketing Group,Marketing,2025-03-12,2025-04-11,Net 30,2195.86,395.25,Valid
+INV-01434,Falcon Freight Co,Software License,2025-05-04,2025-06-01,Net 30,10.0,1.8,Duplicate
+INV-01399,Delta Print Solutions,Software License,2026-03-06,2026-05-05,Net 45,306.84,55.23,Valid
+INV-00395,Greenfield Consulting,,2026-05-03,2026-05-18,Net 30,4422.93,796.13,Missing Info
+INV-01220,Horizon Software Inc,Marketing,2026-05-07,2026-07-06,Net 15,1692.56,304.66,Valid
+INV-00807,Crestline IT Services,Security,2025-10-24,2025-11-08,Net 60,1683.0,302.94,Valid
+INV-01228,Everline Facilities,Facilities,2026-03-10,2026-03-25,Net 30,2600.58,312.07,Valid
+INV-01479,Delta Print Solutions,Office Supplies,2026-03-11,2026-05-09,Net 60,866.38,43.32,Duplicate
+INV-00614,Greenfield Consulting,Office Supplies,2026-05-04,2026-07-03,Net 30,4518.05,225.9,Valid
+INV-00180,Ironclad Security,IT Services,2026-03-06,2026-04-05,Net 60,2049.16,245.9,Valid
+INV-00424,Everline Facilities,Logistics,2025-09-05,2025-10-20,Net 60,3171.93,570.95,Valid
+INV-01245,Horizon Software Inc,Logistics,2026-03-09,2026-03-24,Net 30,1445.72,72.29,Valid
+INV-00692,Greenfield Consulting,Software License,2026-02-02,2026-04-03,Net 60,4682.3,842.81,Valid
+INV-00603,Falcon Freight Co,Logistics,2026-06-04,2026-07-19,Net 45,967.31,48.37,Valid
+INV-01201,Delta Print Solutions,Security,2026-04-07,2026-05-07,Net 15,285.67,34.28,Valid
+INV-00364,Greenfield Consulting,IT Services,2025-01-17,2025-02-16,Net 15,4045.02,202.25,Valid
+INV-01176,Delta Print Solutions,IT Services,2026-03-10,2026-04-09,Net 30,10.0,0.5,Valid
+INV-01197,Horizon Software Inc,Consulting,2025-05-02,2025-06-01,Net 30,1154.14,207.75,Valid
+INV-00347,Everline Facilities,Marketing,2025-06-13,2025-08-12,Net 15,8310.19,565.24,Amount Anomaly
+INV-00440,Everline Facilities,Logistics,2025-03-06,2025-03-21,Net 45,2732.74,491.89,Valid
+INV-00934,Crestline IT Services,Consulting,2025-04-25,2025-06-09,Net 15,1252.99,62.65,Valid
+INV-00486,Bluewave Logistics,Marketing,2025-01-18,2025-02-02,Net 30,4785.08,239.25,Valid
+INV-00589,Apex Office Supplies,Security,2025-09-05,2025-10-20,Net 30,2501.91,300.23,Valid
+INV-00568,Bluewave Logistics,Software License,2025-03-29,2025-05-13,Net 30,4972.6,895.07,Valid
+INV-00644,Falcon Freight Co,Office Supplies,2026-01-30,2026-03-01,Net 15,480.18,86.43,Valid
+INV-00244,Delta Print Solutions,Security,2026-03-31,2026-05-15,Net 30,1308.52,235.53,Valid
+INV-01177,Delta Print Solutions,Marketing,2025-10-09,2025-12-08,Net 15,336.62,40.39,Valid
+INV-00539,Junction Marketing Group,Marketing,2025-05-26,2025-06-25,Net 30,2546.34,305.56,Valid
+INV-01484,Delta Print Solutions,Logistics,2026-04-09,2026-05-20,Net 60,10.0,0.5,Duplicate
+INV-00890,Horizon Software Inc,Consulting,2025-05-21,2025-06-20,Net 15,1328.82,66.44,Valid
+INV-01356,Delta Print Solutions,Logistics,2025-05-21,2025-06-05,Net 45,5.0,98.52,Amount Anomaly
+INV-01419,Delta Print Solutions,Facilities,2026-05-02,2026-05-13,Net 30,1366.27,245.93,Duplicate
+INV-01319,Delta Print Solutions,Office Supplies,2026-03-10,2026-05-09,Net 60,866.38,43.32,Valid
+INV-00309,Falcon Freight Co,Consulting,2025-02-16,2025-04-17,Net 45,10.0,0.5,Valid
+INV-01202,Apex Office Supplies,Software License,2026-04-26,2026-05-26,Net 30,2399.0,287.88,Valid
+INV-00399,Falcon Freight Co,Logistics,2025-01-17,2025-02-16,Net 60,851.48,153.27,Valid
+INV-00371,Greenfield Consulting,Software License,2026-02-23,2026-03-25,Net 30,4330.97,519.72,Valid
+INV-00055,Bluewave Logistics,Office Supplies,2025-03-19,2025-04-18,Net 45,3981.56,716.68,Valid
+INV-00887,Apex Office Supplies,Consulting,2025-10-01,2025-10-31,Net 30,6555.63,397.34,Amount Anomaly
+INV-01178,Horizon Software Inc,Software License,2026-01-19,2026-02-03,Net 60,1391.25,166.95,Valid
+INV-00313,Apex Office Supplies,Facilities,2025-02-09,2025-03-11,Net 60,2663.19,479.37,Valid
+INV-01160,Bluewave Logistics,Consulting,2026-06-28,2026-08-27,Net 45,3648.29,437.79,Valid
+INV-00110,Apex Office Supplies,Software License,2025-04-06,2025-05-21,Net 30,3862.22,193.11,Valid
+INV-00737,Horizon Software Inc,IT Services,2026-01-26,2026-03-12,Net 60,1095.34,197.16,Valid
+INV-01058,Horizon Software Inc,Logistics,2025-01-25,2025-03-26,Net 60,1025.2,123.02,Valid
+INV-00101,Bluewave Logistics,Software License,2026-06-03,2026-07-18,Net 60,3775.96,188.8,Valid
+INV-01446,Greenfield Consulting,Consulting,2025-12-31,2026-02-26,Net 15,4696.63,563.6,Duplicate
+INV-00669,Everline Facilities,Marketing,2025-05-30,2025-06-14,Net 30,2477.06,445.87,Valid
+INV-01374,Bluewave Logistics,Consulting,2025-05-28,2025-06-27,Net 60,3402.9,170.15,Valid
+INV-00267,Apex Office Supplies,Office Supplies,2025-07-15,2025-08-29,Net 45,3399.53,407.94,Valid
+INV-00678,Apex Office Supplies,Office Supplies,2025-06-07,2025-07-22,Net 45,2656.93,478.25,Valid
+INV-00297,Horizon Software Inc,Security,2025-09-08,2025-11-07,Net 15,1506.72,180.81,Valid
+INV-00529,Crestline IT Services,Marketing,2025-02-05,2025-03-07,Net 60,685.03,123.31,Valid
+INV-00944,Everline Facilities,Consulting,2025-05-25,2025-07-09,Net 30,3471.7,624.91,Valid
+INV-00966,Everline Facilities,Office Supplies,2025-03-05,2025-04-19,Net 15,3458.44,622.52,Valid
+INV-00950,,Security,2025-04-10,2025-06-09,Net 60,1647.11,197.65,Missing Info
+INV-00378,Bluewave Logistics,Consulting,2026-05-06,2026-06-05,Net 60,4744.61,854.03,Valid
+INV-00287,Ironclad Security,Marketing,2025-05-13,2025-05-28,Net 60,2218.32,110.92,Valid
+INV-01437,Crestline IT Services,Facilities,2025-03-22,2025-05-17,Net 60,1044.41,125.33,Duplicate
+INV-01299,Ironclad Security,Security,2026-04-17,2026-06-16,Net 30,1873.93,337.31,Valid
+INV-00127,Apex Office Supplies,Marketing,2025-08-26,2025-10-10,Net 60,954.9,171.88,Valid
+INV-00328,Falcon Freight Co,Marketing,2026-05-07,2026-06-21,Net 45,197.75,35.59,Valid
+INV-00293,Ironclad Security,Marketing,2025-10-09,2025-11-08,Net 15,2124.76,382.46,Valid
+INV-00987,Crestline IT Services,,2025-09-25,2025-10-25,Net 15,1214.56,145.75,Missing Info
+INV-01051,Junction Marketing Group,Office Supplies,2026-04-30,2026-06-29,Net 60,2050.35,246.04,Valid
+INV-00917,Ironclad Security,Consulting,2026-02-28,2026-03-30,Net 15,1192.39,214.63,Valid
+INV-00356,Junction Marketing Group,Facilities,2025-03-16,2025-03-31,Net 15,2595.07,311.41,Valid
+INV-00171,Delta Print Solutions,Marketing,2025-05-16,2025-06-30,Net 30,1095.64,197.22,Valid
+INV-00842,Bluewave Logistics,Software License,2026-01-02,2026-03-03,Net 15,4038.67,726.96,Valid
+INV-00835,Apex Office Supplies,Consulting,2025-07-26,2025-08-10,Net 15,1708.42,205.01,Valid
+INV-01151,Delta Print Solutions,IT Services,2025-11-16,2025-12-01,Net 45,1739.12,313.04,Valid
+INV-00210,Apex Office Supplies,Office Supplies,2025-06-09,2025-07-09,Net 15,3019.02,543.42,Valid
+INV-01107,Crestline IT Services,Facilities,2025-04-07,2025-05-07,Net 45,1335.7,240.43,Valid
+INV-00141,Apex Office Supplies,Logistics,2025-07-28,2025-09-11,Net 45,3613.68,650.46,Valid
+INV-01464,Horizon Software Inc,Software License,2026-07-05,2026-07-30,Net 60,1463.27,175.59,Duplicate
+INV-00990,Delta Print Solutions,Marketing,2025-12-20,2026-01-04,Net 15,1039.3,187.07,Valid
+INV-00650,Greenfield Consulting,Office Supplies,2026-02-27,2026-03-14,Net 15,4272.45,769.04,Valid
+INV-01230,Delta Print Solutions,IT Services,2025-06-08,2025-08-07,Net 45,10.0,1.8,Valid
+INV-01274,Greenfield Consulting,Facilities,2026-02-16,2026-04-02,Net 45,3710.7,667.93,Valid
+INV-00483,Apex Office Supplies,IT Services,2025-09-03,2025-11-02,Net 30,5.0,181.82,Amount Anomaly
+INV-01328,Ironclad Security,IT Services,2025-02-01,2025-04-02,Net 45,2425.51,436.59,Valid
+INV-00200,Bluewave Logistics,IT Services,2025-03-29,2025-04-13,Net 45,4187.92,502.55,Valid
+INV-00889,Ironclad Security,Software License,2026-04-26,2026-06-10,Net 60,1958.4,97.92,Valid
+INV-01396,Bluewave Logistics,Software License,2025-11-17,2025-12-17,Net 30,7206.39,489.92,Amount Anomaly
+INV-00708,Falcon Freight Co,Security,2025-05-18,2025-07-02,Net 60,6663.73,140.59,Amount Anomaly
+INV-01272,Falcon Freight Co,Software License,2025-11-19,2026-01-18,Net 15,988.32,49.42,Valid
+INV-00939,Junction Marketing Group,Office Supplies,2025-03-31,2025-05-15,Net 15,2418.79,290.25,Valid
+INV-00011,Delta Print Solutions,Logistics,2025-10-01,2025-10-16,Net 30,10.0,1.8,Valid
+INV-00148,Junction Marketing Group,Security,2026-05-17,2026-06-16,Net 45,2194.38,263.33,Valid
+INV-00721,Junction Marketing Group,Consulting,2025-03-21,2025-05-05,Net 60,2521.55,302.59,Valid
+INV-00283,Horizon Software Inc,Facilities,2025-03-31,2025-05-15,Net 15,1503.86,270.69,Valid
+INV-00299,Delta Print Solutions,Facilities,2025-12-15,2026-01-14,Net 45,1683.47,202.02,Valid
+INV-00615,Falcon Freight Co,Consulting,2025-01-15,2025-03-01,Net 15,10.0,1.8,Valid
+INV-00292,Delta Print Solutions,Marketing,2025-12-21,2026-02-04,Net 30,343.54,17.18,Valid
+INV-01064,Ironclad Security,Consulting,2025-07-29,2025-08-28,Net 15,2266.42,271.97,Valid
+INV-00598,Bluewave Logistics,Facilities,2025-12-11,2026-01-25,Net 45,3209.78,577.76,Valid
+INV-01043,Delta Print Solutions,Software License,2025-04-11,2025-05-11,Net 30,1145.33,206.16,Valid
+INV-00552,Falcon Freight Co,Office Supplies,2025-09-20,2025-10-05,Net 15,10.0,1.8,Valid
+INV-01054,Ironclad Security,Software License,2025-02-04,2025-04-05,Net 60,2031.02,365.58,Valid
+INV-00130,Apex Office Supplies,Marketing,2025-06-19,2025-08-03,Net 60,2783.92,501.11,Valid
+INV-00579,Crestline IT Services,Software License,2025-10-10,2025-12-09,Net 15,2853.91,70.96,Amount Anomaly
+INV-00332,Crestline IT Services,Office Supplies,2025-04-22,2025-05-22,Net 30,907.65,45.38,Valid
+INV-00324,Ironclad Security,Software License,2025-11-29,2026-01-28,Net 45,1605.64,289.02,Valid
+INV-00680,Crestline IT Services,Logistics,2026-06-18,2026-07-03,Net 60,1137.33,204.72,Valid
+INV-01068,Ironclad Security,Facilities,2026-06-30,2026-08-14,Net 15,2839.62,340.75,Valid
+INV-00561,Apex Office Supplies,Office Supplies,2026-02-07,2026-04-08,Net 45,2365.79,118.29,Valid
+INV-00136,Greenfield Consulting,IT Services,2025-12-08,2026-01-22,Net 30,4332.13,779.78,Valid
+INV-00586,Crestline IT Services,Consulting,2026-06-21,2026-07-06,Net 30,1009.17,50.46,Valid
+INV-00545,Crestline IT Services,Security,2025-06-11,2025-08-10,Net 45,1262.7,227.29,Valid
+INV-00725,Greenfield Consulting,Security,2025-12-05,2025-12-20,Net 60,2367.28,454.59,Amount Anomaly
+INV-00436,Delta Print Solutions,Logistics,2026-06-13,2026-07-13,Net 45,1436.02,258.48,Valid
+INV-00965,Falcon Freight Co,Software License,2025-04-02,2025-04-17,Net 30,1204.72,216.85,Valid
+INV-00859,Bluewave Logistics,Software License,2026-05-03,2026-05-18,Net 45,3776.78,679.82,Valid
+INV-00651,Junction Marketing Group,Security,2025-11-08,,Net 45,2366.28,425.93,Missing Info
+INV-00665,Crestline IT Services,IT Services,2026-05-31,2026-07-15,Net 45,1353.05,243.55,Valid
+INV-00159,Everline Facilities,Logistics,2026-01-03,2026-02-17,Net 30,3369.83,404.38,Valid
+INV-01014,Apex Office Supplies,Facilities,2025-04-03,2025-05-18,Net 15,1402.48,252.45,Valid
+INV-01291,Horizon Software Inc,Facilities,2025-02-03,2025-03-05,Net 15,,238.44,Missing Info
+INV-01141,Horizon Software Inc,Facilities,2026-05-18,2026-07-02,Net 15,1161.05,208.99,Valid
+INV-00353,Bluewave Logistics,Security,2026-06-07,2026-08-06,Net 30,3844.67,192.23,Valid
+INV-00723,Horizon Software Inc,Marketing,2025-06-19,2025-07-19,Net 30,1698.58,84.93,Valid
+INV-01294,Falcon Freight Co,Office Supplies,2025-11-07,2025-12-22,Net 30,962.39,115.49,Valid
+INV-00635,Crestline IT Services,Security,2025-06-24,2025-08-08,Net 45,1588.88,190.67,Valid
+INV-00562,Apex Office Supplies,Security,2026-03-14,2026-03-29,Net 30,2775.53,333.06,Valid
+INV-00591,Everline Facilities,Logistics,2025-01-29,2025-03-30,Net 30,2744.11,137.21,Valid
+INV-00908,Horizon Software Inc,Office Supplies,2026-05-25,2026-07-24,Net 60,1158.32,208.5,Valid
+INV-00196,Ironclad Security,IT Services,2026-03-17,2026-04-01,Net 30,2399.77,431.96,Valid
+INV-01489,Bluewave Logistics,Software License,2026-04-01,2026-05-13,Net 45,4329.56,519.55,Duplicate
+INV-01237,Falcon Freight Co,Marketing,2026-04-11,2026-06-10,Net 45,10.0,1.8,Valid
+INV-00439,Junction Marketing Group,Consulting,2026-03-16,2026-05-15,Net 30,2282.63,114.13,Valid
+INV-01452,Everline Facilities,Consulting,2025-11-03,2025-12-02,Net 15,4661.83,233.09,Duplicate
+INV-01367,Ironclad Security,Security,2025-04-28,2025-05-28,Net 30,2877.26,345.27,Valid
+INV-00097,Everline Facilities,IT Services,2026-01-13,2026-02-12,Net 30,3240.89,583.36,Valid
+INV-00584,Horizon Software Inc,Security,2025-08-05,2025-10-04,Net 45,1404.38,252.79,Valid
+INV-01213,Crestline IT Services,Security,2026-04-24,2026-06-23,Net 15,1403.72,70.19,Valid
+INV-00998,Bluewave Logistics,,2025-01-13,2025-03-14,Net 60,3436.24,171.81,Missing Info
+INV-00420,Falcon Freight Co,Consulting,2025-10-26,2025-12-25,Net 45,650.35,117.06,Valid
+INV-00411,Greenfield Consulting,Software License,2025-01-13,2025-02-27,Net 15,4006.08,480.73,Valid
+INV-01318,Bluewave Logistics,Facilities,2026-05-28,2026-06-27,Net 30,4567.75,228.39,Valid
+INV-00478,Horizon Software Inc,Logistics,2025-12-26,2026-01-25,Net 60,1121.51,201.87,Valid
+INV-00514,Everline Facilities,Facilities,2025-09-25,2025-11-09,Net 45,2666.36,319.96,Valid
+INV-00608,Delta Print Solutions,Software License,2026-05-28,2026-06-12,Net 45,1711.68,308.1,Valid
+INV-00157,Bluewave Logistics,IT Services,2026-03-21,2026-04-05,Net 60,3753.95,675.71,Valid
+INV-00622,Greenfield Consulting,Office Supplies,2025-09-19,2025-10-04,Net 15,4264.22,767.56,Valid
+INV-01335,Bluewave Logistics,Marketing,2025-05-12,2025-05-27,Net 30,3186.61,159.33,Valid
+INV-00975,Crestline IT Services,Security,2026-03-11,2026-03-26,Net 30,1245.68,224.22,Valid
+INV-00448,Crestline IT Services,Office Supplies,2025-11-19,2026-01-18,Net 45,1246.85,224.43,Valid
+INV-00179,Bluewave Logistics,Security,2025-08-29,2025-09-28,Net 45,3883.86,466.06,Valid
+INV-00391,Ironclad Security,IT Services,2026-03-17,2026-04-16,Net 30,1370.16,68.51,Valid
+INV-01288,Everline Facilities,Security,2026-05-26,,Net 60,2754.86,330.58,Missing Info
+INV-01341,Delta Print Solutions,Office Supplies,2025-12-09,2025-12-24,Net 30,375.55,67.6,Valid
+INV-01240,Crestline IT Services,Software License,2026-05-04,2026-07-03,Net 60,949.03,170.83,Valid
+INV-00694,Junction Marketing Group,IT Services,2025-03-06,2025-03-21,Net 45,2959.24,532.66,Valid
+INV-00585,Apex Office Supplies,Marketing,2026-06-12,2026-07-12,Net 60,2764.91,138.25,Valid
+INV-01106,Falcon Freight Co,IT Services,2025-02-19,2025-04-05,Net 30,1517.25,182.07,Valid
+INV-00865,Junction Marketing Group,Office Supplies,2026-03-29,2026-04-28,Net 30,871.05,385.39,Amount Anomaly
+INV-00924,Everline Facilities,Facilities,2025-03-11,2025-04-25,Net 15,2869.02,344.28,Valid
+INV-00744,Crestline IT Services,Marketing,2026-01-15,2026-03-16,Net 45,1348.59,161.83,Valid
+INV-00655,Apex Office Supplies,Software License,2025-06-18,2025-08-17,Net 15,3139.31,156.97,Valid
+INV-00295,Apex Office Supplies,Marketing,2025-03-25,2025-04-09,Net 30,2018.8,363.38,Valid
+INV-00544,Falcon Freight Co,Marketing,2026-02-10,2026-02-25,Net 45,264.71,31.77,Valid
+INV-00870,Junction Marketing Group,Office Supplies,2025-05-25,2025-06-09,Net 45,3004.89,360.59,Valid
+INV-00089,Horizon Software Inc,Software License,2025-01-30,2025-03-31,Net 30,1281.38,153.77,Valid
+INV-00977,Apex Office Supplies,Security,2026-05-10,2026-06-24,Net 15,1996.22,99.81,Valid
+INV-01271,Apex Office Supplies,IT Services,2026-03-30,2026-04-29,Net 15,779.82,38.99,Valid
+INV-00576,Greenfield Consulting,IT Services,2025-06-03,2025-07-03,Net 15,5814.51,742.9,Amount Anomaly
+INV-01023,Crestline IT Services,Office Supplies,2025-01-15,2025-02-14,Net 45,1249.04,224.83,Valid
+INV-01386,Horizon Software Inc,Facilities,2026-04-24,2026-06-23,Net 60,1440.77,172.89,Valid
+INV-00707,Apex Office Supplies,Software License,2025-11-17,2025-12-17,Net 45,7405.11,57.67,Amount Anomaly
+INV-00943,Bluewave Logistics,Facilities,2025-01-16,2025-01-31,Net 45,4089.72,204.49,Valid
+INV-00291,Ironclad Security,Logistics,2025-06-06,2025-07-21,Net 45,2466.18,123.31,Valid
+INV-01417,Falcon Freight Co,Office Supplies,2026-03-11,2026-04-21,Net 15,687.89,82.55,Duplicate
+INV-00618,Bluewave Logistics,Security,2025-02-16,2025-04-02,Net 45,3572.4,428.69,Valid
+INV-00349,Crestline IT Services,Security,2026-04-11,2026-05-26,Net 30,1346.46,161.58,Valid
+INV-00567,Horizon Software Inc,Office Supplies,2025-09-27,2025-10-27,Net 30,,175.53,Missing Info
+INV-01411,Everline Facilities,Logistics,2025-03-10,2025-03-21,Net 45,2732.74,491.89,Duplicate
+INV-01190,Ironclad Security,Security,2025-05-14,2025-07-13,Net 60,1888.06,226.57,Valid
+INV-00599,Everline Facilities,Consulting,2025-11-02,2025-12-02,Net 15,4661.83,233.09,Valid
+INV-00459,Falcon Freight Co,Marketing,2025-10-27,2025-12-11,Net 15,1873.96,337.31,Valid
+INV-00376,Junction Marketing Group,Consulting,2025-02-10,2025-02-25,Net 60,2593.23,129.66,Valid
+INV-00334,Bluewave Logistics,Logistics,2025-05-21,2025-06-05,Net 60,3683.18,662.97,Valid
+INV-00756,Everline Facilities,Software License,2025-08-20,2025-09-19,Net 15,2869.98,344.4,Valid
+INV-01322,Apex Office Supplies,IT Services,2025-06-15,2025-06-30,Net 60,1953.89,234.47,Valid
+INV-00711,,Office Supplies,2025-03-19,2025-04-03,Net 60,3803.54,684.64,Missing Info
+INV-01388,Delta Print Solutions,IT Services,2025-09-29,2025-10-14,Net 45,1269.19,152.3,Valid
+INV-01095,Ironclad Security,Software License,2025-12-10,2025-12-25,Net 15,5.0,320.4,Amount Anomaly
+INV-00329,Bluewave Logistics,Logistics,2026-01-24,2026-03-25,Net 45,3549.48,425.94,Valid
+INV-00319,Junction Marketing Group,Security,2025-08-22,2025-09-06,Net 30,2740.05,493.21,Valid
+INV-01152,Bluewave Logistics,Facilities,2025-12-12,2026-01-11,Net 15,4086.68,204.33,Valid
+INV-01311,Apex Office Supplies,IT Services,2025-03-01,2025-04-15,Net 45,1466.37,175.96,Valid
+INV-00013,Apex Office Supplies,Software License,2025-08-23,2025-09-07,Net 45,1725.64,207.08,Valid
+INV-00172,Everline Facilities,Facilities,2026-05-09,2026-06-23,Net 15,3161.64,569.1,Valid
+INV-00261,Greenfield Consulting,Office Supplies,2026-01-18,,Net 45,4295.49,773.19,Missing Info
+INV-00819,Delta Print Solutions,Consulting,2026-01-05,2026-01-20,Net 15,736.88,132.64,Valid
+INV-00860,Bluewave Logistics,Logistics,2026-02-13,,Net 30,4725.46,850.58,Missing Info
+INV-01002,Crestline IT Services,IT Services,2025-09-17,2025-11-01,Net 60,1100.86,132.1,Valid
+INV-00139,Greenfield Consulting,Security,2026-06-11,2026-06-26,Net 60,4318.86,777.39,Valid
+INV-00550,Delta Print Solutions,IT Services,2025-12-22,2026-02-05,Net 45,473.14,23.66,Valid
+INV-01010,Greenfield Consulting,Facilities,2025-09-30,2025-10-30,Net 60,5727.57,783.81,Amount Anomaly
+INV-00845,Greenfield Consulting,Consulting,2026-03-17,2026-05-01,Net 30,4296.45,773.36,Valid
+INV-01442,Everline Facilities,Consulting,2025-01-12,2025-02-21,Net 45,4274.73,213.74,Duplicate
+INV-00559,Crestline IT Services,Consulting,2025-02-24,2025-03-11,Net 30,1375.59,165.07,Valid
+INV-00140,Apex Office Supplies,Security,2025-07-12,2025-08-26,Net 60,1638.59,294.95,Valid
+INV-01308,Everline Facilities,Logistics,2025-04-04,2025-04-19,Net 45,3494.8,174.74,Valid
+INV-01455,Bluewave Logistics,Facilities,2026-02-20,2026-04-03,Net 60,5392.1,970.58,Duplicate
+INV-00225,Junction Marketing Group,Security,2025-06-06,2025-06-21,Net 60,2202.94,110.15,Valid
+INV-01241,Everline Facilities,IT Services,2026-01-05,2026-03-06,Net 30,7803.35,504.15,Amount Anomaly
+INV-00410,Apex Office Supplies,IT Services,2025-04-02,2025-05-17,Net 45,3233.12,581.96,Valid
+INV-00326,Junction Marketing Group,Marketing,2026-05-11,2026-06-10,Net 45,2517.8,125.89,Valid
+INV-00300,Greenfield Consulting,IT Services,2025-05-14,2025-06-28,Net 45,4251.21,765.22,Valid
+INV-01122,Junction Marketing Group,Consulting,2025-01-15,2025-02-14,Net 45,2070.73,372.73,Valid
+INV-00742,Greenfield Consulting,Software License,2025-09-17,2025-11-01,Net 45,4291.95,772.55,Valid
+INV-00670,Ironclad Security,IT Services,2025-02-03,2025-03-20,Net 30,2202.3,264.28,Valid
+INV-01389,Ironclad Security,Consulting,2026-06-10,2026-06-25,Net 15,2334.57,280.15,Valid
+INV-00949,Ironclad Security,Logistics,2025-03-22,2025-05-21,Net 15,1827.15,328.89,Valid
+INV-01361,Falcon Freight Co,Security,2025-07-13,2025-09-11,Net 45,,12.86,Missing Info
+INV-00574,Falcon Freight Co,Software License,2025-03-10,2025-03-25,Net 45,10.0,1.2,Valid
+INV-00504,Bluewave Logistics,Facilities,2026-04-22,2026-06-06,Net 15,4183.99,502.08,Valid
+INV-00760,Horizon Software Inc,Marketing,2025-01-29,2025-03-30,Net 15,959.6,47.98,Valid
+INV-00004,Delta Print Solutions,Logistics,2026-04-05,2026-05-20,Net 60,10.0,0.5,Valid
+INV-00747,Ironclad Security,Office Supplies,2025-02-23,2025-03-25,Net 15,3065.49,367.86,Valid
+INV-00468,Bluewave Logistics,Logistics,2026-04-16,2026-05-01,Net 60,3899.58,194.98,Valid
+INV-00322,Greenfield Consulting,Consulting,2025-06-05,2025-08-04,Net 60,4166.08,749.89,Valid
+INV-00006,Bluewave Logistics,Facilities,2026-01-25,2026-02-09,Net 45,3676.78,441.21,Valid
+INV-01326,Crestline IT Services,Office Supplies,2025-01-03,2025-03-04,Net 30,1202.72,60.14,Valid
+INV-00548,Junction Marketing Group,Facilities,2025-02-03,2025-03-05,Net 30,2344.69,422.04,Valid
+INV-01347,Bluewave Logistics,Facilities,2025-03-04,2025-03-19,Net 15,3856.04,462.72,Valid
+INV-00040,Greenfield Consulting,Marketing,2026-05-14,2026-06-13,Net 30,4477.54,223.88,Valid
+INV-00543,Crestline IT Services,Facilities,2025-05-26,2025-06-10,Net 15,1284.6,231.23,Valid
+INV-00243,Junction Marketing Group,Software License,2025-06-19,2025-08-18,Net 45,2578.61,128.93,Valid
+INV-00137,Falcon Freight Co,Software License,2026-02-26,2026-04-27,Net 15,62.93,7.55,Valid
+INV-00602,Apex Office Supplies,Consulting,2025-07-14,2025-08-28,Net 60,2741.0,493.38,Valid
+INV-00773,Delta Print Solutions,Facilities,2026-01-24,2026-02-08,Net 45,5.0,85.42,Amount Anomaly
+INV-00675,Bluewave Logistics,IT Services,2025-07-11,2025-08-10,Net 60,3606.61,649.19,Valid
+INV-01193,Greenfield Consulting,Consulting,2025-08-18,2025-09-02,Net 15,3897.25,194.86,Valid
+INV-01478,Bluewave Logistics,Facilities,2025-11-02,2025-12-29,Net 30,3453.0,621.54,Duplicate
+INV-00582,Horizon Software Inc,Marketing,2025-04-11,2025-05-11,Net 60,,54.73,Missing Info
+INV-01473,Junction Marketing Group,Logistics,2026-03-27,2026-05-07,Net 30,2026.89,243.23,Duplicate
+INV-00788,Falcon Freight Co,Marketing,2025-08-22,2025-10-06,Net 45,232.55,27.91,Valid
+INV-01387,Falcon Freight Co,Logistics,2025-10-07,,Net 60,1516.22,75.81,Missing Info
+INV-00377,Delta Print Solutions,Consulting,2025-12-07,2026-01-21,Net 30,10.0,0.5,Valid
+INV-00315,Junction Marketing Group,Marketing,2025-11-23,2025-12-23,Net 45,2440.03,292.8,Valid
+INV-00443,Falcon Freight Co,Logistics,2025-12-27,2026-02-25,Net 45,161.37,29.05,Valid
+INV-00320,Ironclad Security,Consulting,2026-01-25,2026-02-24,Net 15,1800.37,324.07,Valid
+INV-01373,Falcon Freight Co,Software License,2026-01-17,2026-02-16,Net 15,617.56,111.16,Valid
+INV-00793,Greenfield Consulting,Marketing,2026-06-21,2026-07-06,Net 30,6124.56,227.91,Amount Anomaly
+INV-01494,Junction Marketing Group,Logistics,2025-09-30,2025-11-12,Net 45,2404.31,288.52,Duplicate
+INV-00425,Greenfield Consulting,Security,2025-03-17,2025-05-16,Net 60,4341.48,781.47,Valid
+INV-00554,Greenfield Consulting,Security,2025-12-26,2026-02-24,Net 30,4158.59,207.93,Valid
+INV-00595,Greenfield Consulting,Consulting,2025-12-24,2026-02-22,Net 60,4408.69,529.04,Valid
+INV-00893,Horizon Software Inc,Office Supplies,2025-09-10,2025-11-09,Net 60,1465.63,175.88,Valid
+INV-01376,Junction Marketing Group,Facilities,2025-07-13,2025-08-27,Net 30,2237.82,111.89,Valid
+INV-01475,Junction Marketing Group,Office Supplies,2025-06-04,2025-07-31,Net 45,2911.1,145.56,Duplicate
+INV-00883,Crestline IT Services,Logistics,2025-11-13,2025-12-13,Net 30,2288.79,174.54,Amount Anomaly
+INV-00228,Junction Marketing Group,IT Services,2025-02-27,2025-04-13,Net 45,2706.82,487.23,Valid
+INV-01143,Greenfield Consulting,Office Supplies,2026-03-30,2026-05-29,Net 30,4490.1,224.51,Valid
+INV-00810,Crestline IT Services,IT Services,2026-03-25,2026-04-09,Net 30,1506.13,75.31,Valid
+INV-00979,Delta Print Solutions,Marketing,2026-04-29,2026-05-14,Net 15,53.91,9.7,Valid
+INV-01223,Bluewave Logistics,Consulting,2026-02-13,2026-03-30,Net 60,4089.31,204.47,Valid
+INV-00067,Apex Office Supplies,Consulting,2026-03-23,2026-04-07,Net 45,3316.76,597.02,Valid
+INV-00394,Everline Facilities,Software License,2025-03-24,2025-04-08,Net 60,3511.44,175.57,Valid
+INV-00580,Greenfield Consulting,Security,2025-12-06,2026-01-05,Net 45,2151.7,205.96,Amount Anomaly
+INV-00989,Greenfield Consulting,Security,2026-01-28,2026-02-27,Net 30,4419.6,795.53,Valid
+INV-00212,Everline Facilities,Software License,2025-08-09,2025-08-24,Net 15,2563.06,307.57,Valid
+INV-01158,Everline Facilities,Software License,2025-09-29,2025-10-14,Net 30,3167.73,380.13,Valid
+INV-00781,Greenfield Consulting,Consulting,2025-04-12,2025-05-12,Net 45,4236.16,211.81,Valid
+INV-00537,Junction Marketing Group,Logistics,2026-02-02,2026-03-19,Net 30,2798.6,139.93,Valid
+INV-00716,Junction Marketing Group,Office Supplies,2025-05-30,2025-07-29,Net 30,2146.46,257.58,Valid
+INV-00661,Greenfield Consulting,Consulting,2025-11-26,2026-01-25,Net 45,3969.86,476.38,Valid
+INV-00086,Apex Office Supplies,Office Supplies,2025-07-31,2025-09-29,Net 60,1863.43,223.61,Valid
+INV-01348,Crestline IT Services,Marketing,2025-03-05,2025-05-04,Net 60,998.52,49.93,Valid
+INV-01038,Crestline IT Services,Facilities,2025-06-13,2025-06-28,Net 45,1256.62,62.83,Valid
+INV-01006,Delta Print Solutions,Security,2026-02-07,2026-03-09,Net 15,356.16,64.11,Valid
+INV-00906,Everline Facilities,Logistics,2025-11-13,2026-01-12,Net 15,2593.57,311.23,Valid
+INV-01349,Bluewave Logistics,Office Supplies,2025-04-15,2025-04-30,Net 45,4415.07,794.71,Valid
+INV-00631,Junction Marketing Group,IT Services,2026-05-21,2026-06-20,Net 15,4468.29,81.21,Amount Anomaly
+INV-01033,Delta Print Solutions,Logistics,2025-06-28,2025-07-13,Net 60,1804.29,324.77,Valid
+INV-01398,Everline Facilities,Facilities,2025-01-10,2025-03-11,Net 45,4494.6,809.03,Valid
+INV-01418,Junction Marketing Group,Marketing,2025-05-26,2025-07-06,Net 45,2899.95,145.0,Duplicate
+INV-00274,Everline Facilities,Software License,2025-02-28,2025-03-15,Net 45,2834.11,510.14,Valid
+INV-00722,Falcon Freight Co,Office Supplies,2025-12-20,2026-02-18,Net 30,1358.08,162.97,Valid
+INV-00363,Crestline IT Services,IT Services,2025-10-10,2025-11-09,Net 15,1660.18,298.83,Valid
+INV-00623,Apex Office Supplies,Security,2025-02-19,2025-03-06,Net 60,1197.97,143.76,Valid
+INV-00003,Delta Print Solutions,Consulting,2025-08-27,2025-09-11,Net 60,120.02,21.6,Valid
+INV-00007,Apex Office Supplies,IT Services,2026-04-16,2026-05-01,Net 45,2237.12,268.45,Valid
+INV-00312,Falcon Freight Co,Software License,2026-01-10,2026-02-09,Net 15,1209.29,60.46,Valid
+INV-00662,Greenfield Consulting,Logistics,2025-12-18,2026-02-01,Net 30,4681.67,561.8,Valid
+INV-00938,Greenfield Consulting,Marketing,2026-06-19,2026-07-04,Net 15,4604.97,230.25,Valid
+INV-01476,Junction Marketing Group,Facilities,2026-02-27,2026-04-08,Net 30,2175.18,108.76,Duplicate
+INV-00216,Horizon Software Inc,Software License,2026-03-17,2026-04-16,Net 30,1367.65,68.38,Valid
+INV-00683,Ironclad Security,Facilities,2025-01-10,2025-01-25,Net 60,2300.92,414.17,Valid
+INV-00028,Delta Print Solutions,Office Supplies,2025-08-19,2025-09-03,Net 30,548.7,65.84,Valid
+INV-01310,,Facilities,2025-06-23,2025-07-08,Net 30,3754.82,675.87,Missing Info
+INV-00866,Delta Print Solutions,IT Services,2026-01-18,2026-02-17,Net 15,386.41,69.55,Valid
+INV-00846,Greenfield Consulting,Security,2025-09-18,2025-11-02,Net 60,3869.12,464.29,Valid
+INV-00639,Bluewave Logistics,Security,2026-03-03,2026-05-02,Net 30,,923.35,Missing Info
+INV-00964,Delta Print Solutions,Marketing,2025-11-21,2026-01-05,Net 60,1298.47,233.72,Valid
+INV-01041,Ironclad Security,Security,2025-04-29,2025-05-14,Net 45,1857.15,92.86,Valid
+INV-00625,Apex Office Supplies,IT Services,2025-11-05,2026-01-04,Net 45,8917.83,347.11,Amount Anomaly
+INV-01050,Junction Marketing Group,Security,2025-08-24,2025-09-08,Net 30,2103.53,252.42,Valid
+INV-00257,Bluewave Logistics,Office Supplies,2025-04-24,2025-06-23,Net 30,4397.73,791.59,Valid
+INV-00026,Everline Facilities,Consulting,2026-06-25,2026-08-24,Net 45,3307.09,165.35,Valid
+INV-00337,Greenfield Consulting,Security,2025-06-30,2025-07-15,Net 30,4459.24,535.11,Valid
+INV-00573,Bluewave Logistics,Logistics,2026-03-22,2026-04-21,Net 45,4224.97,760.49,Valid
+INV-00048,Crestline IT Services,Facilities,2025-12-24,2026-01-08,Net 45,951.84,47.59,Valid
+INV-00107,Falcon Freight Co,Marketing,2025-09-22,2025-11-06,Net 15,1685.32,202.24,Valid
+INV-00350,Delta Print Solutions,Facilities,2025-03-25,2025-05-24,Net 15,477.98,86.04,Valid
+INV-00056,Junction Marketing Group,Office Supplies,2025-06-01,2025-07-31,Net 45,2911.1,145.56,Valid
+INV-00808,Everline Facilities,Office Supplies,2026-05-19,2026-06-18,Net 30,2988.89,358.67,Valid
+INV-00214,Junction Marketing Group,Marketing,2025-02-26,2025-03-13,Net 30,2650.26,132.51,Valid
+INV-00121,Junction Marketing Group,Marketing,2025-02-24,2025-03-26,Net 15,2205.75,110.29,Valid
+INV-00869,Delta Print Solutions,Marketing,2025-08-05,2025-09-04,Net 60,1243.01,223.74,Valid
+INV-01000,Apex Office Supplies,Consulting,2025-04-05,2025-04-20,Net 15,2336.93,420.65,Valid
+INV-00073,Horizon Software Inc,Security,2026-03-29,2026-04-28,Net 30,1197.22,215.5,Valid
+INV-01477,Apex Office Supplies,Security,2025-10-26,2025-11-06,Net 45,2363.06,283.57,Duplicate
+INV-01410,Falcon Freight Co,Logistics,2026-02-08,2026-04-06,Net 45,1114.26,200.57,Duplicate
+INV-00046,Everline Facilities,Office Supplies,2026-04-14,2026-05-29,Net 60,3094.43,154.72,Valid
+INV-01262,Apex Office Supplies,IT Services,2025-10-01,2025-10-31,Net 15,2486.52,447.57,Valid
+INV-00524,Bluewave Logistics,IT Services,2025-09-23,2025-10-08,Net 30,3494.53,174.73,Valid
+INV-00868,Bluewave Logistics,Office Supplies,2025-11-09,2026-01-08,Net 45,7790.5,520.32,Amount Anomaly
+INV-01493,Everline Facilities,Logistics,2026-01-06,2026-02-17,Net 30,3369.83,404.38,Duplicate
+INV-00863,Bluewave Logistics,Facilities,2026-02-28,2026-04-29,Net 30,8276.04,454.25,Amount Anomaly
+INV-00794,Bluewave Logistics,Consulting,2026-02-04,2026-03-21,Net 45,3329.62,166.48,Valid
+INV-00534,Apex Office Supplies,Marketing,2025-11-23,2025-12-23,Net 15,1723.08,86.15,Valid
+INV-01238,Crestline IT Services,Marketing,2025-08-05,2025-09-04,Net 15,1280.34,64.02,Valid
+INV-00604,Bluewave Logistics,Marketing,2026-04-28,2026-05-28,Net 30,3910.18,703.83,Valid
+INV-00466,Horizon Software Inc,Facilities,2025-10-02,2025-11-16,Net 30,1099.98,132.0,Valid
+INV-00821,Junction Marketing Group,Office Supplies,2025-05-03,2025-07-02,Net 15,2914.89,145.74,Valid
+INV-01413,Everline Facilities,Marketing,2025-09-02,2025-10-14,Net 60,3901.51,195.08,Duplicate
+INV-01048,Everline Facilities,Security,2025-05-20,2025-06-04,Net 60,2168.76,260.25,Valid
+INV-00947,Greenfield Consulting,Software License,2025-02-25,2025-03-12,Net 30,4294.85,515.38,Valid
+INV-00061,Apex Office Supplies,Security,2026-04-27,2026-05-27,Net 45,2252.07,112.6,Valid
+INV-01424,Bluewave Logistics,Logistics,2025-04-09,2025-04-20,Net 60,4308.9,517.07,Duplicate
+INV-00093,Greenfield Consulting,IT Services,2025-10-12,2025-12-11,Net 60,4310.03,517.2,Valid
+INV-00667,Apex Office Supplies,Software License,2026-06-20,2026-07-05,Net 30,1783.91,89.2,Valid
+INV-00705,Delta Print Solutions,Facilities,2025-11-22,2026-01-21,Net 45,978.78,117.45,Valid
+INV-00195,Crestline IT Services,Marketing,2025-10-09,2025-11-23,Net 60,1321.51,158.58,Valid
+INV-00281,Everline Facilities,Marketing,2026-04-02,2026-05-02,Net 60,3740.86,673.35,Valid
+INV-00696,Everline Facilities,Office Supplies,2026-03-25,2026-05-24,Net 60,3147.41,377.69,Valid
+INV-00360,Falcon Freight Co,Software License,2025-05-02,2025-06-01,Net 30,10.0,1.8,Valid
+INV-00520,Bluewave Logistics,Office Supplies,2025-09-12,2025-10-27,Net 45,3818.58,458.23,Valid
+INV-00812,Horizon Software Inc,Office Supplies,2026-01-16,2026-03-17,Net 45,5.0,215.78,Amount Anomaly
+INV-01313,Apex Office Supplies,Consulting,2025-07-27,2025-08-26,Net 60,1259.41,226.69,Valid
+INV-00183,Ironclad Security,Marketing,2026-01-03,2026-01-18,Net 30,1896.29,227.55,Valid
+INV-01028,Everline Facilities,Facilities,2025-05-25,2025-07-24,Net 30,3182.08,159.1,Valid
+INV-00111,Everline Facilities,Facilities,2026-01-13,2026-03-14,Net 60,2615.0,470.7,Valid
+INV-00043,Bluewave Logistics,IT Services,2025-03-11,2025-04-10,Net 30,3965.92,475.91,Valid
+INV-01234,,Marketing,2025-04-07,2025-06-06,Net 45,3859.14,694.65,Missing Info
+INV-00205,Greenfield Consulting,Logistics,2025-01-27,2025-03-13,Net 45,4821.5,241.08,Valid
+INV-00820,Delta Print Solutions,Logistics,2026-03-21,2026-05-05,Net 45,926.81,46.34,Valid
+INV-00053,Greenfield Consulting,Facilities,2025-10-11,2025-10-26,Net 30,4335.91,216.8,Valid
+INV-00546,Crestline IT Services,Logistics,2026-01-01,2026-01-31,Net 60,1636.25,294.52,Valid
+INV-01253,Horizon Software Inc,Consulting,2025-12-19,2026-02-17,Net 45,1150.23,57.51,Valid
+INV-00894,Falcon Freight Co,IT Services,2026-02-08,2026-02-23,Net 60,2277.67,409.98,Valid
+INV-00856,Falcon Freight Co,Consulting,2025-06-03,2025-07-18,Net 30,10.0,1.8,Valid
+INV-00753,Falcon Freight Co,IT Services,2025-09-02,2025-09-17,Net 45,5.0,5.21,Amount Anomaly
+INV-00184,Bluewave Logistics,Consulting,2026-04-11,2026-04-26,Net 15,3200.7,576.13,Valid
+INV-00138,Horizon Software Inc,Facilities,2025-04-01,2025-05-16,Net 15,1371.26,164.55,Valid
+INV-00971,Everline Facilities,IT Services,2025-05-09,2025-06-08,Net 15,4100.52,205.03,Valid
+INV-00081,Crestline IT Services,Consulting,2026-05-02,2026-07-01,Net 45,1264.03,151.68,Valid
+INV-01211,Horizon Software Inc,Consulting,2025-06-04,2025-08-03,Net 30,1328.22,66.41,Valid
+INV-00106,Apex Office Supplies,Security,2026-05-22,2026-07-06,Net 30,1489.29,74.46,Valid
+INV-00542,Crestline IT Services,Office Supplies,2025-12-15,2026-01-14,Net 15,1111.59,133.39,Valid
+INV-01032,Delta Print Solutions,Security,2025-05-27,2025-07-11,Net 60,10.0,1.8,Valid
+INV-00481,Delta Print Solutions,Marketing,2025-10-11,2025-10-26,Net 15,28.75,1.44,Valid
+INV-00166,Everline Facilities,Office Supplies,2025-01-23,2025-03-24,Net 15,2694.45,323.33,Valid
+INV-00249,Everline Facilities,IT Services,2026-04-06,2026-05-06,Net 30,3054.58,366.55,Valid
+INV-00308,Greenfield Consulting,Facilities,2025-05-18,2025-07-02,Net 60,4766.24,857.92,Valid
+INV-00447,Ironclad Security,Marketing,2025-06-27,2025-07-27,Net 30,1542.09,185.05,Valid
+INV-00746,Crestline IT Services,Software License,2025-04-13,2025-05-13,Net 45,1227.61,220.97,Valid
+INV-00335,Horizon Software Inc,Facilities,2026-05-04,2026-06-03,Net 45,1389.22,166.71,Valid
+INV-00098,Everline Facilities,Software License,2025-04-21,2025-05-06,Net 60,4672.25,560.67,Valid
+INV-01162,Greenfield Consulting,Security,2026-02-16,2026-04-02,Net 30,4221.54,759.88,Valid
+INV-00738,Crestline IT Services,IT Services,2025-09-18,2025-11-17,Net 45,1422.5,71.12,Valid
+INV-01297,Apex Office Supplies,Marketing,2026-03-04,2026-05-03,Net 60,3249.63,584.93,Valid
+INV-00942,Horizon Software Inc,Logistics,2025-05-01,2025-06-15,Net 45,1422.53,71.13,Valid
+INV-00103,Greenfield Consulting,Security,2025-06-30,2025-08-14,Net 60,4530.14,815.43,Valid
+INV-00435,Bluewave Logistics,IT Services,2025-01-24,2025-03-10,Net 30,3761.44,677.06,Valid
+INV-00075,Delta Print Solutions,Office Supplies,2025-07-23,2025-08-22,Net 30,829.94,41.5,Valid
+INV-01339,Falcon Freight Co,Consulting,2026-06-14,2026-06-29,Net 15,143.57,25.84,Valid
+INV-00922,Bluewave Logistics,Office Supplies,2025-08-01,2025-09-30,Net 45,4161.65,499.4,Valid
+INV-01358,Horizon Software Inc,Facilities,2025-11-13,2025-12-28,Net 15,949.7,113.96,Valid
+INV-00303,Delta Print Solutions,Facilities,2025-06-13,2025-07-28,Net 30,990.34,178.26,Valid
+INV-01261,Ironclad Security,Facilities,2025-08-18,2025-10-17,Net 45,2952.98,354.36,Valid
+INV-01222,Apex Office Supplies,IT Services,2025-10-17,2025-12-01,Net 60,1761.66,88.08,Valid
+INV-00734,Junction Marketing Group,Office Supplies,2025-04-09,2025-05-09,Net 15,2016.32,241.96,Valid
+INV-00389,Apex Office Supplies,Office Supplies,2026-05-10,2026-07-09,Net 60,,92.05,Missing Info
+INV-00236,Everline Facilities,Logistics,2025-06-03,2025-07-18,Net 45,3751.74,187.59,Valid
+INV-01244,Greenfield Consulting,Security,2025-07-15,2025-07-30,Net 30,4232.13,507.86,Valid
+INV-00268,Everline Facilities,Software License,2025-05-08,2025-06-22,Net 60,2467.71,296.13,Valid
+INV-00306,Delta Print Solutions,Marketing,2025-12-28,2026-01-12,Net 60,1181.75,59.09,Valid
+INV-00118,Horizon Software Inc,Marketing,2025-04-16,2025-05-01,Net 60,1426.37,256.75,Valid
+INV-01210,Junction Marketing Group,Logistics,2025-09-28,2025-11-12,Net 45,2404.31,288.52,Valid
+INV-00674,Falcon Freight Co,Security,2025-07-21,2025-08-20,Net 30,938.68,112.64,Valid
+INV-00250,Horizon Software Inc,Office Supplies,2025-12-24,2026-01-08,Net 60,1033.24,123.99,Valid
+INV-01093,Horizon Software Inc,,2025-10-23,2025-11-22,Net 60,1175.75,211.63,Missing Info
+INV-01079,Crestline IT Services,Facilities,2025-09-01,2025-09-16,Net 30,1355.35,67.77,Valid
+INV-00072,Everline Facilities,Facilities,2025-08-04,2025-10-03,Net 60,3400.84,612.15,Valid
+INV-00095,Apex Office Supplies,Logistics,2025-09-11,2025-10-11,Net 30,716.61,35.83,Valid
+INV-00847,Apex Office Supplies,Office Supplies,2025-02-05,2025-03-22,Net 30,3370.05,606.61,Valid
+INV-00034,Apex Office Supplies,Consulting,2026-02-17,2026-04-03,Net 30,835.82,41.79,Valid
+INV-01100,Everline Facilities,Marketing,2025-11-04,2026-01-03,Net 60,3422.41,171.12,Valid
+INV-00449,Apex Office Supplies,Software License,2026-05-12,2026-06-11,Net 60,2099.44,104.97,Valid
+INV-00446,Greenfield Consulting,Logistics,2025-05-22,2025-07-21,Net 60,4254.76,510.57,Valid
+INV-00772,Bluewave Logistics,Office Supplies,2026-06-15,2026-08-14,Net 15,4032.32,483.88,Valid
+INV-00717,Horizon Software Inc,Facilities,2025-08-26,2025-09-10,Net 30,1411.45,169.37,Valid
+INV-00886,Everline Facilities,Logistics,2025-06-05,2025-07-05,Net 30,2970.72,148.54,Valid
+INV-01142,Apex Office Supplies,Security,2026-03-17,2026-04-01,Net 45,3909.67,469.16,Valid
+INV-00900,Greenfield Consulting,Logistics,2025-11-28,2026-01-27,Net 60,4315.37,215.77,Valid
+INV-01035,Ironclad Security,IT Services,2025-08-30,2025-09-29,Net 45,1576.75,78.84,Valid
+INV-00078,Greenfield Consulting,Security,2025-08-13,2025-09-12,Net 15,4164.52,749.61,Valid
+INV-00085,Bluewave Logistics,Security,2026-03-01,2026-04-30,Net 60,3059.31,367.12,Valid
+INV-01145,Everline Facilities,Security,2026-02-03,2026-04-04,Net 60,136.76,85.81,Amount Anomaly
+INV-00083,Everline Facilities,Facilities,2025-08-29,2025-10-13,Net 15,3208.06,384.97,Valid
+INV-00458,Delta Print Solutions,Marketing,2025-03-02,2025-04-16,Net 30,,310.83,Missing Info
+INV-00918,Bluewave Logistics,Marketing,2026-06-26,2026-07-11,Net 60,7795.69,318.32,Amount Anomaly
+INV-00677,Crestline IT Services,Security,2025-09-19,2025-10-04,Net 30,975.93,117.11,Valid
+INV-00984,Horizon Software Inc,IT Services,2025-03-26,2025-04-25,Net 45,3188.14,260.82,Amount Anomaly
+INV-01165,,Logistics,2026-04-19,2026-05-19,Net 45,732.76,36.64,Missing Info
+INV-00437,Ironclad Security,Software License,2026-03-13,2026-05-12,Net 30,1408.43,70.42,Valid
+INV-00771,Ironclad Security,Logistics,2025-02-03,2025-03-20,Net 60,2258.81,271.06,Valid
+INV-00645,Crestline IT Services,Logistics,2026-06-02,2026-08-01,Net 15,1082.08,129.85,Valid
+INV-01231,Horizon Software Inc,Marketing,2026-03-24,2026-04-08,Net 30,1326.0,159.12,Valid
+INV-00905,Crestline IT Services,Office Supplies,2025-05-29,2025-06-28,Net 60,1426.68,256.8,Valid
+INV-01192,Delta Print Solutions,Logistics,2025-03-28,2025-05-27,Net 60,293.15,35.18,Valid
+INV-00405,Crestline IT Services,Marketing,2026-01-25,2026-02-09,Net 30,1633.18,293.97,Valid
+INV-01302,Crestline IT Services,IT Services,2025-01-26,2025-03-12,Net 15,,204.88,Missing Info
+INV-00933,Delta Print Solutions,Consulting,2026-01-16,2026-03-17,Net 45,729.18,87.5,Valid
+INV-00991,Apex Office Supplies,Security,2025-06-21,2025-08-20,Net 45,7650.04,344.48,Amount Anomaly
+INV-00105,Horizon Software Inc,Software License,2025-09-07,2025-11-06,Net 45,1498.87,269.8,Valid
+INV-00610,Greenfield Consulting,Logistics,2026-04-14,2026-05-14,Net 15,4118.88,494.27,Valid
+INV-01111,Delta Print Solutions,,2026-06-23,2026-07-08,Net 15,975.13,117.02,Missing Info
+INV-00689,Delta Print Solutions,Logistics,2026-03-22,2026-04-06,Net 15,10.0,1.8,Valid
+INV-00988,Falcon Freight Co,Logistics,2025-03-28,2025-04-27,Net 60,88.71,15.97,Valid
+INV-00931,Ironclad Security,IT Services,2025-06-19,2025-08-18,Net 45,1156.17,57.81,Valid
+INV-00063,Falcon Freight Co,Facilities,2025-10-13,2025-10-28,Net 60,664.11,79.69,Valid
+INV-00282,Delta Print Solutions,Security,2025-05-06,2025-06-05,Net 30,978.43,48.92,Valid
+INV-00779,Horizon Software Inc,Security,2025-01-10,2025-02-09,Net 30,2726.06,128.56,Amount Anomaly
+INV-01011,Junction Marketing Group,Software License,2025-01-04,2025-03-05,Net 60,2455.3,294.64,Valid
+INV-00239,Ironclad Security,Marketing,2026-01-06,2026-01-21,Net 30,1159.04,139.08,Valid
+INV-00224,Delta Print Solutions,Consulting,2025-04-16,2025-05-16,Net 30,1363.47,163.62,Valid
+INV-00146,Greenfield Consulting,Marketing,2025-07-15,2025-08-14,Net 60,4441.69,222.08,Valid
+INV-01485,Junction Marketing Group,Software License,2025-06-20,2025-08-18,Net 45,2578.61,128.93,Duplicate
+INV-00374,Delta Print Solutions,IT Services,2025-09-19,2025-10-19,Net 60,353.9,42.47,Valid
+INV-01227,Ironclad Security,Software License,2025-07-24,2025-09-22,Net 60,1597.25,191.67,Valid
+INV-00119,Horizon Software Inc,,2026-03-28,2026-05-12,Net 45,1108.23,55.41,Missing Info
+INV-01126,Bluewave Logistics,IT Services,2025-11-18,2025-12-03,Net 30,4508.05,540.97,Valid
+INV-00251,Ironclad Security,IT Services,2026-01-18,2026-02-17,Net 45,2631.96,315.84,Valid
+INV-01443,Delta Print Solutions,IT Services,2025-01-08,2025-01-18,Net 15,568.75,102.38,Duplicate
+INV-01492,Falcon Freight Co,Security,2025-01-14,2025-03-13,Net 45,373.67,44.84,Duplicate
+INV-00010,Everline Facilities,Facilities,2026-04-10,2026-05-25,Net 45,3271.09,163.55,Valid
+INV-00450,Greenfield Consulting,Security,2026-05-19,2026-07-18,Net 60,4191.05,754.39,Valid
+INV-00882,Ironclad Security,Logistics,2025-05-15,2025-06-14,Net 30,1937.65,348.78,Valid
+INV-00709,Falcon Freight Co,IT Services,2025-11-09,2026-01-08,Net 30,725.72,130.63,Valid
+INV-00256,Everline Facilities,Software License,2025-05-05,2025-05-20,Net 60,2349.75,117.49,Valid
+INV-00594,Delta Print Solutions,Marketing,2025-09-16,2025-10-31,Net 60,1818.07,327.25,Valid
+INV-00390,Apex Office Supplies,Marketing,2025-01-18,2025-03-04,Net 15,2662.22,479.2,Valid
+INV-01059,Crestline IT Services,Office Supplies,2026-01-15,2026-03-16,Net 15,1410.5,253.89,Valid
+INV-01199,Delta Print Solutions,Consulting,2025-08-09,2025-09-23,Net 60,553.05,99.55,Valid
+INV-00558,Junction Marketing Group,Logistics,2026-05-10,2026-05-25,Net 60,2377.18,285.26,Valid
+INV-01286,Bluewave Logistics,Logistics,2025-04-05,2025-04-20,Net 60,4308.9,517.07,Valid
+INV-00839,Apex Office Supplies,IT Services,2025-09-30,2025-10-15,Net 45,3272.83,589.11,Valid
+INV-00461,Delta Print Solutions,Software License,2025-05-30,,Net 60,1168.61,58.43,Missing Info
+INV-00724,Crestline IT Services,IT Services,2025-07-11,2025-08-10,Net 30,1414.29,169.71,Valid
+INV-01380,Ironclad Security,Marketing,2026-05-10,2026-07-09,Net 60,1955.4,234.65,Valid
+INV-00145,Greenfield Consulting,Security,2026-05-10,2026-07-09,Net 30,4003.65,200.18,Valid
+INV-00502,Falcon Freight Co,Facilities,2025-10-05,2025-10-20,Net 15,10.0,1.8,Valid
+INV-01098,Ironclad Security,Marketing,2026-05-18,2026-06-02,Net 60,2100.74,252.09,Valid
+INV-00740,Junction Marketing Group,Office Supplies,2026-06-20,2026-07-05,Net 60,3243.63,583.85,Valid
+INV-01383,Junction Marketing Group,IT Services,2025-06-10,2025-07-25,Net 30,2808.51,337.02,Valid
+INV-00732,Junction Marketing Group,Software License,2025-03-12,2025-04-11,Net 30,2214.22,265.71,Valid
+INV-00540,Horizon Software Inc,Consulting,2025-02-08,2025-02-23,Net 30,1224.15,61.21,Valid
+INV-00178,Crestline IT Services,Security,2025-02-16,2025-03-03,Net 15,941.48,112.98,Valid
+INV-01445,Crestline IT Services,Marketing,2026-01-26,2026-02-09,Net 30,1633.18,293.97,Duplicate
+INV-00698,Crestline IT Services,Logistics,2025-11-02,2025-12-17,Net 15,1285.58,64.28,Valid
+INV-00940,Ironclad Security,Marketing,2025-11-16,2025-12-01,Net 30,4265.67,430.42,Amount Anomaly
+INV-01049,Crestline IT Services,Logistics,2025-12-18,2026-01-17,Net 30,2880.17,135.15,Amount Anomaly
+INV-00875,Crestline IT Services,Office Supplies,2025-07-23,2025-09-21,Net 15,1373.73,247.27,Valid
+INV-01439,Bluewave Logistics,Software License,2025-08-08,2025-09-03,Net 15,3062.9,551.32,Duplicate
+INV-01491,Delta Print Solutions,Facilities,2025-11-07,2026-01-02,Net 60,10.0,0.5,Duplicate
+INV-00008,Junction Marketing Group,IT Services,2026-01-06,2026-02-05,Net 15,2010.83,361.95,Valid
+INV-00862,Delta Print Solutions,Facilities,2025-03-15,2025-04-29,Net 15,919.44,110.33,Valid
+INV-00668,Apex Office Supplies,Logistics,2025-02-27,2025-03-29,Net 45,2560.05,307.21,Valid
+INV-01224,Bluewave Logistics,Software License,2025-01-22,2025-02-21,Net 60,4639.21,231.96,Valid
+INV-00358,Greenfield Consulting,Software License,2025-07-04,2025-08-03,Net 45,4484.5,807.21,Valid
+INV-00784,Bluewave Logistics,Logistics,2025-12-26,2026-01-25,Net 45,3809.42,685.7,Valid
+INV-00736,Ironclad Security,Software License,2026-03-07,2026-04-21,Net 30,1237.41,61.87,Valid
+INV-00330,Apex Office Supplies,Security,2025-10-22,2025-11-06,Net 45,2363.06,283.57,Valid
+INV-01055,Bluewave Logistics,IT Services,2026-04-09,2026-06-08,Net 15,3769.62,188.48,Valid
+INV-01147,Junction Marketing Group,Facilities,2026-01-22,2026-03-08,Net 15,2021.52,242.58,Valid
+INV-01117,Apex Office Supplies,Office Supplies,2025-07-21,2025-08-05,Net 60,5.0,171.04,Amount Anomaly
+INV-00259,Junction Marketing Group,IT Services,2026-03-03,2026-04-02,Net 45,2145.51,386.19,Valid
+INV-01174,Bluewave Logistics,Marketing,2026-05-28,2026-06-12,Net 60,3291.34,592.44,Valid
+INV-00373,Horizon Software Inc,Logistics,2025-03-01,2025-04-30,Net 60,1535.27,184.23,Valid
+INV-01103,Everline Facilities,Office Supplies,2026-05-03,2026-05-18,Net 45,3324.8,398.98,Valid
+INV-00925,Bluewave Logistics,Office Supplies,2025-12-08,2026-01-22,Net 30,3129.42,375.53,Valid
+INV-00143,Everline Facilities,Consulting,2025-01-15,2025-03-16,Net 15,2495.42,124.77,Valid
+INV-00526,Horizon Software Inc,Software License,2025-02-21,2025-03-23,Net 60,1060.21,190.84,Valid
+INV-01312,,Software License,2026-02-27,2026-04-13,Net 15,1171.94,140.63,Missing Info
+INV-01007,Crestline IT Services,IT Services,2026-03-18,2026-04-17,Net 60,1196.99,215.46,Valid
+INV-01121,Falcon Freight Co,IT Services,2025-06-14,2025-07-14,Net 15,1519.15,273.45,Valid
+INV-01422,Apex Office Supplies,IT Services,2025-10-04,2025-10-15,Net 45,3272.83,589.11,Duplicate
+INV-00441,Falcon Freight Co,Marketing,2025-07-21,,Net 60,509.26,25.46,Missing Info
+INV-00532,,Security,2026-01-03,2026-03-04,Net 45,4195.51,755.19,Missing Info
+INV-01200,Crestline IT Services,Marketing,2026-02-23,2026-03-25,Net 45,1463.11,73.16,Valid
+INV-00227,Horizon Software Inc,Marketing,2025-03-11,2025-05-10,Net 45,1433.54,172.02,Valid
+INV-01036,Ironclad Security,Consulting,2026-06-04,2026-07-04,Net 45,2054.06,246.49,Valid
+INV-00229,Horizon Software Inc,Facilities,2026-04-08,2026-04-23,Net 45,1044.08,52.2,Valid
+INV-01278,Crestline IT Services,IT Services,2026-06-17,2026-08-01,Net 45,1377.49,68.87,Valid
+INV-01296,Crestline IT Services,Facilities,2026-05-16,2026-05-31,Net 15,1373.16,68.66,Valid
+INV-00213,Everline Facilities,Consulting,2026-05-14,2026-06-28,Net 60,2778.95,138.95,Valid
+INV-00080,Ironclad Security,Software License,2025-11-21,,Net 60,1185.15,213.33,Missing Info
+INV-00149,Falcon Freight Co,Consulting,2026-01-22,2026-03-23,Net 30,1343.04,161.16,Valid
+INV-00815,Apex Office Supplies,Security,2025-05-05,2025-06-04,Net 30,1156.25,138.75,Valid
+INV-01156,Horizon Software Inc,Marketing,2026-05-30,2026-07-14,Net 45,5.0,69.12,Amount Anomaly
+INV-01084,Everline Facilities,Logistics,2026-05-01,2026-06-15,Net 60,,614.05,Missing Info
+INV-00672,Greenfield Consulting,Facilities,2026-02-01,2026-04-02,Net 15,4152.8,747.5,Valid
+INV-01301,Falcon Freight Co,Marketing,2025-02-16,2025-04-17,Net 15,10.0,1.8,Valid
+INV-00556,Falcon Freight Co,Facilities,2025-09-25,2025-10-10,Net 30,1898.47,94.92,Valid
+INV-00907,Crestline IT Services,Marketing,2025-07-27,2025-08-11,Net 15,1229.9,221.38,Valid
+INV-00134,Everline Facilities,Security,2025-02-11,2025-03-13,Net 45,3381.92,405.83,Valid
+INV-01108,Everline Facilities,Facilities,2025-10-05,2025-11-19,Net 30,2524.19,126.21,Valid
+INV-00824,Apex Office Supplies,IT Services,2025-12-31,2026-01-30,Net 30,6265.69,363.89,Amount Anomaly
+INV-00409,Bluewave Logistics,Software License,2025-07-11,2025-09-09,Net 15,4128.96,495.48,Valid
+INV-00369,Everline Facilities,Logistics,2025-10-09,2025-10-24,Net 60,2752.84,495.51,Valid
+INV-00508,Delta Print Solutions,Office Supplies,2025-12-21,2026-01-05,Net 60,1164.4,139.73,Valid
+INV-01180,Everline Facilities,Office Supplies,2025-01-22,2025-02-06,Net 30,3467.39,624.13,Valid
+INV-00505,Ironclad Security,Consulting,2026-04-13,2026-04-28,Net 45,1088.93,130.67,Valid
+INV-01331,Apex Office Supplies,IT Services,2025-10-15,2025-11-29,Net 45,230.4,11.52,Valid
+INV-00348,Everline Facilities,Logistics,2026-01-12,2026-02-11,Net 60,3444.3,172.22,Valid
+INV-00387,Bluewave Logistics,Logistics,2025-02-19,2025-03-06,Net 30,3796.69,455.6,Valid
+INV-00001,Bluewave Logistics,Consulting,2025-01-26,2025-03-12,Net 30,3268.25,163.41,Valid
+INV-00361,Delta Print Solutions,Security,2025-01-04,2025-01-19,Net 60,1377.52,165.3,Valid
+INV-00895,Horizon Software Inc,Software License,2025-02-13,2025-03-15,Net 15,1247.92,224.63,Valid
+INV-00829,Junction Marketing Group,Logistics,2025-06-14,2025-06-29,Net 60,2494.33,448.98,Valid
+INV-01426,Horizon Software Inc,Marketing,2026-03-30,2026-04-10,Net 30,1310.22,65.51,Duplicate
+INV-00476,Bluewave Logistics,Logistics,2025-11-17,2026-01-01,Net 60,4562.15,547.46,Valid
+INV-01279,Ironclad Security,Office Supplies,2025-12-15,2026-01-14,Net 45,1907.33,95.37,Valid
+INV-00058,Falcon Freight Co,Logistics,2026-02-21,2026-03-23,Net 30,1811.39,90.57,Valid
+INV-00638,Crestline IT Services,Office Supplies,2025-04-26,2025-05-26,Net 30,970.6,174.71,Valid
+INV-01305,Junction Marketing Group,Facilities,2026-03-31,2026-04-15,Net 60,2460.97,442.97,Valid
+INV-01053,Junction Marketing Group,Office Supplies,2025-01-06,2025-03-07,Net 60,2301.64,115.08,Valid
+INV-00953,Apex Office Supplies,Facilities,2025-03-08,2025-05-07,Net 60,,107.73,Missing Info
+INV-00173,Horizon Software Inc,Software License,2025-03-19,2025-04-18,Net 45,1124.82,56.24,Valid
+INV-00451,Crestline IT Services,Marketing,2025-03-26,2025-04-10,Net 15,1330.57,66.53,Valid
+INV-00126,Apex Office Supplies,Security,2026-02-23,2026-04-24,Net 45,3186.05,573.49,Valid
+INV-00980,Falcon Freight Co,Security,2025-01-12,2025-03-13,Net 45,373.67,44.84,Valid
+INV-00531,Crestline IT Services,Consulting,2026-03-06,2026-04-05,Net 15,1322.81,238.11,Valid
+INV-00858,Greenfield Consulting,Logistics,2025-10-24,2025-12-23,Net 45,2657.91,203.21,Amount Anomaly
+INV-00714,Horizon Software Inc,Facilities,2026-05-29,2026-06-13,Net 15,1140.46,136.86,Valid
+INV-00091,Greenfield Consulting,Office Supplies,2025-05-19,2025-07-18,Net 45,4714.97,235.75,Valid
+INV-01449,Bluewave Logistics,Facilities,2025-04-05,2025-05-18,Net 45,4161.34,749.04,Duplicate
+INV-00182,Horizon Software Inc,IT Services,2026-04-01,2026-05-01,Net 45,1353.32,162.4,Valid
+INV-00876,Delta Print Solutions,Security,2026-06-27,2026-08-11,Net 60,1119.68,134.36,Valid
+INV-01008,Everline Facilities,IT Services,2025-04-16,2025-05-01,Net 45,4481.06,224.05,Valid
+INV-00787,Falcon Freight Co,IT Services,2026-03-08,2026-05-07,Net 30,667.5,33.38,Valid
+INV-00415,Horizon Software Inc,Consulting,2025-03-20,2025-05-04,Net 60,1047.98,125.76,Valid
+INV-00252,Delta Print Solutions,Facilities,2025-01-29,2025-03-15,Net 30,10.0,0.5,Valid
+INV-00070,Greenfield Consulting,Software License,2025-10-30,2025-11-29,Net 60,4121.24,206.06,Valid
+INV-00804,Delta Print Solutions,Consulting,2025-06-17,2025-08-16,Net 45,1513.95,181.67,Valid
+INV-00132,Ironclad Security,Office Supplies,2026-05-21,2026-07-20,Net 60,1252.0,62.6,Valid
+INV-00301,Delta Print Solutions,Security,2026-04-23,2026-05-08,Net 30,1243.06,149.17,Valid
+INV-01025,Bluewave Logistics,Consulting,2026-05-25,2026-06-24,Net 60,4668.03,233.4,Valid
+INV-00327,Delta Print Solutions,Consulting,2025-11-01,2025-12-16,Net 60,934.4,168.19,Valid
+INV-01463,Junction Marketing Group,Logistics,2026-01-30,2026-02-26,Net 30,2447.7,293.72,Duplicate
+INV-01113,Falcon Freight Co,Facilities,2025-05-23,2025-07-22,Net 30,542.67,97.68,Valid
+INV-00500,Horizon Software Inc,Logistics,2026-01-08,2026-03-09,Net 15,1490.73,74.54,Valid
+INV-01252,Horizon Software Inc,Marketing,2026-03-23,2026-04-07,Net 30,1111.78,55.59,Valid
+INV-00833,Junction Marketing Group,Facilities,2025-10-17,2025-12-01,Net 15,2249.97,270.0,Valid
+INV-00365,Junction Marketing Group,Office Supplies,2025-02-04,2025-04-05,Net 30,2188.59,393.95,Valid
+INV-00496,Ironclad Security,IT Services,2025-03-07,2025-04-21,Net 60,1845.61,332.21,Valid
+INV-01393,Falcon Freight Co,Office Supplies,2026-02-18,2026-04-19,Net 60,341.28,61.43,Valid
+INV-00339,Everline Facilities,Security,2026-04-11,2026-06-10,Net 45,3193.69,159.68,Valid
+INV-00422,Junction Marketing Group,Security,2025-07-04,2025-07-19,Net 30,2024.39,364.39,Valid
+INV-00165,Horizon Software Inc,Facilities,2025-04-20,2025-05-20,Net 45,1461.1,175.33,Valid
+INV-00029,Junction Marketing Group,Office Supplies,2025-08-14,2025-08-29,Net 30,1994.49,99.72,Valid
+INV-00517,Horizon Software Inc,Facilities,2025-11-18,2026-01-17,Net 30,1303.12,65.16,Valid
+INV-00194,Horizon Software Inc,Logistics,2025-03-17,2025-04-01,Net 15,2198.11,263.77,Valid
+INV-01282,Horizon Software Inc,Facilities,2025-11-02,2025-11-17,Net 30,1251.92,150.23,Valid
+INV-01360,Falcon Freight Co,Consulting,2025-07-20,2025-08-19,Net 15,429.58,77.32,Valid
+INV-00946,Crestline IT Services,Office Supplies,2025-01-30,2025-03-31,Net 15,2415.41,266.43,Amount Anomaly
+INV-01359,Ironclad Security,Office Supplies,2025-05-29,2025-06-13,Net 60,2556.61,127.83,Valid
+INV-00170,Bluewave Logistics,Software License,2025-10-30,2025-12-14,Net 30,4164.58,749.62,Valid
+INV-00168,Delta Print Solutions,IT Services,2025-09-14,2025-10-14,Net 15,1102.16,198.39,Valid
+INV-00653,Falcon Freight Co,Consulting,2026-04-09,2026-04-24,Net 15,10.0,0.5,Valid
+INV-00174,Bluewave Logistics,IT Services,2026-02-09,2026-02-24,Net 60,3007.67,360.92,Valid
+INV-00519,Crestline IT Services,Facilities,2025-11-08,2025-11-23,Net 30,1065.72,53.29,Valid
+INV-01212,Apex Office Supplies,Security,2025-08-24,2025-09-23,Net 45,2072.9,103.65,Valid
+INV-01179,Delta Print Solutions,Security,2025-10-12,2025-11-11,Net 45,10.0,1.2,Valid
+INV-00913,Bluewave Logistics,Marketing,2026-03-03,2026-04-02,Net 30,4606.58,230.33,Valid
+INV-00492,Bluewave Logistics,Logistics,2026-04-10,2026-04-25,Net 15,3345.51,401.46,Valid
+INV-00954,Horizon Software Inc,Logistics,2025-06-24,2025-08-08,Net 15,991.45,118.97,Valid
+INV-00074,Bluewave Logistics,Consulting,2025-10-18,2025-12-02,Net 45,4060.39,203.02,Valid
+INV-01251,Everline Facilities,Security,2026-03-04,2026-05-03,Net 45,3138.77,156.94,Valid
+INV-00588,Delta Print Solutions,Software License,2025-10-08,2025-11-22,Net 15,1718.89,206.27,Valid
+INV-00751,Horizon Software Inc,Marketing,2026-03-26,2026-04-10,Net 30,1310.22,65.51,Valid
+INV-00658,Junction Marketing Group,Logistics,2025-05-07,2025-07-06,Net 60,2330.89,279.71,Valid
+INV-00843,Crestline IT Services,Facilities,2025-07-04,2025-09-02,Net 30,1086.56,195.58,Valid
+INV-00235,Falcon Freight Co,Software License,2025-03-09,2025-04-23,Net 45,10.0,0.5,Valid
+INV-00733,Bluewave Logistics,Software License,2025-01-17,2025-02-16,Net 30,3476.56,625.78,Valid
+INV-00215,Crestline IT Services,IT Services,2025-09-19,2025-11-03,Net 15,1049.29,125.91,Valid
+INV-00163,Everline Facilities,Facilities,2025-06-11,2025-06-26,Net 45,3047.37,365.68,Valid
+INV-00133,Falcon Freight Co,Consulting,2025-09-14,2025-09-29,Net 15,999.19,49.96,Valid
+INV-01104,Crestline IT Services,Security,2025-03-01,2025-03-31,Net 30,1421.88,170.63,Valid
+INV-00223,Ironclad Security,Facilities,2025-04-27,2025-05-27,Net 30,1559.82,187.18,Valid
+INV-01226,Everline Facilities,IT Services,2025-05-15,2025-06-29,Net 45,3083.75,555.07,Valid
+INV-00935,Horizon Software Inc,Logistics,2026-06-03,2026-06-18,Net 30,1263.12,151.57,Valid
+INV-00186,Ironclad Security,Facilities,2025-08-01,2025-08-31,Net 30,2131.16,106.56,Valid
+INV-00042,Ironclad Security,IT Services,2026-06-28,2026-07-28,Net 30,1724.59,86.23,Valid
+INV-00693,Falcon Freight Co,IT Services,2025-01-18,2025-03-19,Net 15,10.0,1.8,Valid
+INV-00109,Ironclad Security,Security,2025-09-04,2025-11-03,Net 60,2143.35,385.8,Valid
+INV-00039,Greenfield Consulting,Security,2025-01-03,2025-03-04,Net 45,4502.34,540.28,Valid
+INV-00569,Ironclad Security,Software License,2025-03-04,2025-05-03,Net 60,,351.73,Missing Info
+INV-00994,Greenfield Consulting,Facilities,2025-11-20,2025-12-05,Net 60,4112.91,205.65,Valid
+INV-01353,Ironclad Security,IT Services,2025-12-03,2026-01-02,Net 15,1661.93,83.1,Valid
+INV-01440,Horizon Software Inc,Security,2025-03-15,2025-04-11,Net 30,1486.87,74.34,Duplicate
+INV-00484,Horizon Software Inc,Facilities,2025-03-14,2025-03-29,Net 30,1002.4,120.29,Valid
+INV-00469,Horizon Software Inc,Logistics,2025-01-01,2025-03-02,Net 45,1145.47,57.27,Valid
+INV-00891,Greenfield Consulting,Consulting,2025-01-16,2025-03-02,Net 30,3907.88,468.95,Valid
+INV-00948,Junction Marketing Group,Facilities,2026-04-02,2026-05-17,Net 30,4520.67,319.1,Amount Anomaly
+INV-00025,Horizon Software Inc,Security,2025-03-12,2025-04-11,Net 30,1486.87,74.34,Valid
+INV-01030,Crestline IT Services,Office Supplies,2025-01-17,2025-03-18,Net 15,1386.94,69.35,Valid
+INV-01191,Crestline IT Services,Facilities,2025-09-24,2025-10-24,Net 45,1055.23,189.94,Valid
+INV-00069,Everline Facilities,Software License,2026-06-04,2026-07-19,Net 45,2723.44,490.22,Valid
+INV-00885,Apex Office Supplies,Marketing,2025-11-23,2026-01-22,Net 60,2467.65,296.12,Valid
+INV-01263,Horizon Software Inc,IT Services,2026-04-14,2026-04-29,Net 15,1362.07,68.1,Valid
+INV-00367,Crestline IT Services,Facilities,2026-05-31,2026-07-15,Net 45,757.77,37.89,Valid
+INV-00506,Junction Marketing Group,Facilities,2025-11-08,2025-12-08,Net 60,2608.86,313.06,Valid
+INV-00851,Delta Print Solutions,Software License,2025-09-20,2025-11-04,Net 30,963.29,48.16,Valid
+INV-01314,Ironclad Security,Marketing,2026-06-01,2026-07-31,Net 15,2149.45,107.47,Valid
+INV-00384,Delta Print Solutions,Facilities,2026-01-24,2026-02-23,Net 45,1635.67,196.28,Valid
+INV-00735,Bluewave Logistics,Office Supplies,2026-05-09,2026-06-08,Net 60,3314.76,596.66,Valid
+INV-00718,Apex Office Supplies,Security,2025-07-31,2025-09-14,Net 60,882.1,105.85,Valid
+INV-01334,Everline Facilities,Consulting,2026-05-28,2026-07-27,Net 30,3071.14,153.56,Valid
+INV-00455,Greenfield Consulting,Office Supplies,2025-04-15,2025-05-15,Net 60,4177.6,501.31,Valid
+INV-00265,Apex Office Supplies,Consulting,2025-10-28,2025-11-27,Net 15,2272.33,113.62,Valid
+INV-00076,Horizon Software Inc,Consulting,2025-03-16,2025-05-15,Net 60,1539.43,184.73,Valid
+INV-00915,Falcon Freight Co,IT Services,2026-01-24,2026-02-08,Net 45,160.16,19.22,Valid
+INV-00233,Apex Office Supplies,Logistics,2025-09-11,2025-11-10,Net 45,3536.89,424.43,Valid
+INV-00445,Everline Facilities,Logistics,2025-04-30,2025-05-30,Net 60,4375.31,525.04,Valid
+INV-00396,Bluewave Logistics,Facilities,2026-05-27,2026-07-26,Net 15,3210.21,577.84,Valid
+INV-00612,Horizon Software Inc,Logistics,2025-10-08,2025-11-07,Net 60,1289.48,64.47,Valid
+INV-00177,Bluewave Logistics,Software License,2026-04-21,2026-06-05,Net 15,3905.1,702.92,Valid
+INV-00019,Ironclad Security,IT Services,2025-09-15,2025-09-30,Net 45,2253.49,405.63,Valid
+INV-01309,Crestline IT Services,Logistics,2025-07-07,2025-08-21,Net 45,1215.57,60.78,Valid
+INV-01056,Greenfield Consulting,Marketing,2025-08-12,2025-09-11,Net 30,4364.6,523.75,Valid
+INV-00342,Junction Marketing Group,Facilities,2026-02-20,2026-04-21,Net 15,2356.04,424.09,Valid
+INV-01357,Junction Marketing Group,Logistics,2026-03-23,2026-05-07,Net 30,2026.89,243.23,Valid
+INV-00880,Crestline IT Services,Consulting,2025-03-31,2025-05-30,Net 60,1337.79,240.8,Valid
+INV-00596,Everline Facilities,IT Services,2026-06-18,2026-08-17,Net 15,3171.91,570.94,Valid
+INV-00062,Everline Facilities,Consulting,2025-08-22,2025-09-21,Net 60,3026.91,151.35,Valid
+INV-01259,Falcon Freight Co,Office Supplies,2025-06-12,2025-07-12,Net 15,1537.56,276.76,Valid
+INV-00273,Horizon Software Inc,Facilities,2025-12-26,2026-02-24,Net 60,1382.39,69.12,Valid
+INV-01207,Falcon Freight Co,Facilities,2026-04-25,2026-05-25,Net 60,1086.3,54.31,Valid
+INV-00873,Bluewave Logistics,Software License,2025-01-20,2025-03-06,Net 30,4100.56,738.1,Valid
+INV-01120,Falcon Freight Co,Marketing,2025-01-30,2025-02-14,Net 45,1343.59,67.18,Valid
+INV-01405,Delta Print Solutions,Software License,2026-04-17,2026-04-29,Net 30,1031.15,51.56,Duplicate
+INV-00279,Greenfield Consulting,IT Services,2025-11-18,2026-01-02,Net 15,4334.76,216.74,Valid
+INV-00037,Ironclad Security,Logistics,2025-01-16,2025-01-31,Net 60,1552.74,77.64,Valid
+INV-00663,Greenfield Consulting,Facilities,2026-06-09,2026-07-24,Net 30,4478.64,806.16,Valid
+INV-01350,Greenfield Consulting,Software License,2026-02-16,2026-03-03,Net 30,4206.58,757.18,Valid
+INV-01089,Ironclad Security,Facilities,2026-02-08,2026-03-10,Net 15,2386.98,286.44,Valid
+INV-00978,Crestline IT Services,IT Services,2026-06-24,2026-08-08,Net 15,1059.42,127.13,Valid
+INV-00739,Junction Marketing Group,Office Supplies,2026-02-23,2026-04-09,Net 15,2155.27,107.76,Valid
+INV-00192,Ironclad Security,Office Supplies,2025-11-05,2026-01-04,Net 15,2109.2,379.66,Valid
+INV-00920,Junction Marketing Group,Logistics,2026-05-24,2026-07-23,Net 30,2291.2,274.94,Valid
+INV-00457,Delta Print Solutions,Logistics,2025-12-26,2026-02-24,Net 30,10.0,0.5,Valid
+INV-00676,Apex Office Supplies,Marketing,2026-03-15,2026-04-29,Net 30,3072.9,553.12,Valid
+INV-00761,Greenfield Consulting,Software License,2025-08-14,2025-09-13,Net 45,4065.2,487.82,Valid
+INV-01351,Junction Marketing Group,Security,2025-01-11,2025-03-12,Net 60,2435.46,292.26,Valid
+INV-00729,Everline Facilities,Security,2025-03-29,2025-04-28,Net 60,3513.36,421.6,Valid
+INV-00413,Crestline IT Services,Security,2025-10-03,2025-11-17,Net 30,1423.5,170.82,Valid
+INV-00826,Delta Print Solutions,Logistics,2025-01-22,2025-03-23,Net 45,1238.02,148.56,Valid
+INV-00617,Crestline IT Services,Marketing,2025-04-16,2025-06-15,Net 30,1169.03,210.43,Valid
+INV-00115,Junction Marketing Group,Consulting,2026-06-22,2026-08-06,Net 45,1972.57,98.63,Valid
+INV-00418,Horizon Software Inc,Logistics,2025-12-09,2026-02-07,Net 45,1482.09,266.78,Valid
+INV-01427,Falcon Freight Co,Consulting,2025-02-14,2025-03-27,Net 15,564.72,28.24,Duplicate
+INV-00970,Crestline IT Services,Software License,2025-07-12,2025-09-10,Net 30,959.76,115.17,Valid
+INV-00605,Falcon Freight Co,Consulting,2025-04-02,2025-05-02,Net 45,10.0,1.2,Valid
+INV-01433,Apex Office Supplies,Security,2026-03-19,2026-03-29,Net 30,2775.53,333.06,Duplicate
+INV-00090,Horizon Software Inc,Office Supplies,2025-05-11,2025-05-26,Net 15,1410.49,169.26,Valid
+INV-00849,Apex Office Supplies,Office Supplies,2025-10-10,2025-11-09,Net 60,1716.34,85.82,Valid
+INV-01243,Apex Office Supplies,Logistics,2025-08-03,2025-10-02,Net 30,1645.74,296.23,Valid
+INV-01432,Ironclad Security,Facilities,2025-12-12,2026-02-08,Net 45,1777.33,319.92,Duplicate
+INV-00754,Greenfield Consulting,Consulting,2025-12-28,2026-02-26,Net 15,4696.63,563.6,Valid
+INV-00499,Ironclad Security,Consulting,2025-01-03,2025-01-18,Net 15,1599.55,79.98,Valid
+INV-00012,Crestline IT Services,Consulting,2026-04-19,2026-06-18,Net 45,1280.68,153.68,Valid
+INV-00397,Ironclad Security,Security,2025-02-13,2025-03-15,Net 45,1152.15,57.61,Valid
+INV-00285,Ironclad Security,Logistics,2025-08-18,2025-09-02,Net 30,1481.68,74.08,Valid
+INV-00691,Crestline IT Services,Consulting,2025-09-15,2025-09-30,Net 45,934.22,168.16,Valid
+INV-01229,Greenfield Consulting,Facilities,2026-03-13,2026-03-28,Net 60,4084.56,204.23,Valid
+INV-01402,Falcon Freight Co,Consulting,2025-08-15,2025-09-27,Net 15,1944.84,233.38,Duplicate
+INV-00690,Horizon Software Inc,IT Services,2025-12-06,2025-12-21,Net 15,1456.61,72.83,Valid
+INV-00852,Bluewave Logistics,Security,2025-11-29,2026-01-28,Net 15,,198.38,Missing Info
+INV-00160,Ironclad Security,Logistics,2026-02-26,2026-03-28,Net 15,2255.66,112.78,Valid
+INV-00896,Ironclad Security,Marketing,2026-02-01,2026-02-16,Net 60,1971.51,98.58,Valid
+INV-01188,Crestline IT Services,Software License,2026-03-31,2026-04-30,Net 30,1315.74,65.79,Valid
+INV-00258,Crestline IT Services,Facilities,2025-10-26,2025-12-25,Net 30,1204.22,60.21,Valid
+INV-00336,Apex Office Supplies,Office Supplies,2025-04-02,2025-05-02,Net 30,3314.82,596.67,Valid
+INV-01406,Ironclad Security,Marketing,2026-05-21,2026-06-02,Net 60,2100.74,252.09,Duplicate
+INV-01040,Bluewave Logistics,Office Supplies,2025-02-23,2025-03-25,Net 60,3445.36,172.27,Valid
+INV-00516,Junction Marketing Group,Logistics,2025-04-22,2025-05-22,Net 60,1938.88,96.94,Valid
+INV-01016,Delta Print Solutions,Facilities,2025-11-03,2026-01-02,Net 60,10.0,0.5,Valid
+INV-00769,Junction Marketing Group,,2025-10-09,2025-12-08,Net 60,2613.85,130.69,Missing Info
+INV-01315,Falcon Freight Co,Security,2026-04-21,2026-06-20,Net 15,1784.99,89.25,Valid
+INV-00762,Ironclad Security,Marketing,2025-01-10,2025-02-24,Net 15,1753.42,87.67,Valid
+INV-01102,Horizon Software Inc,Security,2025-03-10,2025-04-24,Net 60,1305.05,234.91,Valid
+INV-00522,Bluewave Logistics,IT Services,2026-04-19,2026-05-04,Net 15,3594.36,179.72,Valid
+INV-00023,Junction Marketing Group,IT Services,2025-11-28,2026-01-27,Net 45,2040.17,102.01,Valid
+INV-00357,Ironclad Security,Office Supplies,2025-03-03,2025-03-18,Net 45,2547.25,305.67,Valid
+INV-01270,Crestline IT Services,Security,2026-03-16,2026-05-15,Net 45,923.6,110.83,Valid
+INV-00341,Crestline IT Services,Consulting,2025-01-15,2025-03-01,Net 30,1198.21,143.79,Valid
+INV-00432,Bluewave Logistics,Facilities,2025-05-26,2025-07-10,Net 60,3306.12,396.73,Valid
+INV-00474,Apex Office Supplies,Software License,2025-01-09,2025-02-23,Net 30,2860.33,143.02,Valid
+INV-00218,Apex Office Supplies,Software License,2026-04-16,2026-05-01,Net 60,1686.63,202.4,Valid
+INV-00912,Crestline IT Services,IT Services,2025-02-03,2025-03-20,Net 15,1281.0,153.72,Valid
+INV-01203,Greenfield Consulting,IT Services,2026-03-10,2026-04-24,Net 15,4038.29,201.91,Valid
+INV-01012,Bluewave Logistics,Security,2025-08-20,2025-09-04,Net 15,3856.28,462.75,Valid
+INV-01457,Apex Office Supplies,IT Services,2025-09-06,2025-11-01,Net 45,2680.86,321.7,Duplicate
+INV-00094,Apex Office Supplies,IT Services,2025-02-23,2025-04-09,Net 15,2128.44,106.42,Valid
+INV-01009,Horizon Software Inc,Office Supplies,2025-01-20,2025-03-21,Net 15,1712.75,85.64,Valid
+INV-01071,Crestline IT Services,Office Supplies,2026-05-24,2026-06-23,Net 45,5.0,70.88,Amount Anomaly
+INV-00697,Crestline IT Services,Software License,2025-08-14,2025-09-13,Net 45,1088.09,195.86,Valid
+INV-00997,Ironclad Security,Office Supplies,2025-12-12,2026-01-11,Net 15,2838.92,340.67,Valid
+INV-00154,Crestline IT Services,Facilities,2025-03-18,2025-05-17,Net 60,1044.41,125.33,Valid
+INV-01448,Horizon Software Inc,Logistics,2025-12-30,2026-01-25,Net 60,1121.51,201.87,Duplicate
+INV-01496,Everline Facilities,Office Supplies,2026-05-08,2026-05-18,Net 45,3324.8,398.98,Duplicate
+INV-00790,Greenfield Consulting,Logistics,2025-06-21,2025-07-21,Net 30,4169.12,208.46,Valid
+INV-00581,Falcon Freight Co,Marketing,2025-01-21,2025-03-07,Net 45,382.41,45.89,Valid
+INV-00704,Falcon Freight Co,Marketing,2025-05-12,2025-06-11,Net 15,548.27,27.41,Valid
+INV-01317,Ironclad Security,Software License,2025-05-09,2025-06-23,Net 60,1769.34,318.48,Valid
+INV-00488,Greenfield Consulting,Logistics,2026-02-16,2026-03-03,Net 45,4385.97,789.47,Valid
+INV-00560,Greenfield Consulting,Consulting,2025-09-29,2025-11-13,Net 15,3696.22,443.55,Valid
+INV-00802,Everline Facilities,Consulting,2025-01-10,2025-03-11,Net 15,3734.93,448.19,Valid
+INV-00513,Junction Marketing Group,Logistics,2025-03-05,2025-05-04,Net 30,2522.67,454.08,Valid
+INV-00634,Falcon Freight Co,Office Supplies,2026-03-13,2026-03-28,Net 15,1134.93,56.75,Valid
+INV-01340,Everline Facilities,Office Supplies,2026-03-07,2026-05-06,Net 60,7671.62,199.4,Amount Anomaly
+INV-01336,Ironclad Security,Office Supplies,2025-10-08,2025-11-07,Net 45,1026.97,184.85,Valid
+INV-00791,Everline Facilities,Software License,2025-03-23,2025-04-22,Net 15,3337.33,166.87,Valid
+INV-00117,Everline Facilities,Marketing,2025-02-16,2025-03-03,Net 30,2572.26,463.01,Valid
+INV-00741,Delta Print Solutions,IT Services,2025-11-20,2026-01-19,Net 30,1109.82,133.18,Valid
+INV-01082,Ironclad Security,Software License,2025-11-05,2025-11-20,Net 60,935.27,46.76,Valid
+INV-00831,Crestline IT Services,Consulting,2025-01-20,2025-03-06,Net 45,1262.58,227.26,Valid
+INV-00120,Horizon Software Inc,Security,2025-04-27,2025-05-12,Net 15,1672.19,200.66,Valid
+INV-00657,Horizon Software Inc,Software License,2025-07-15,2025-08-29,Net 15,1239.95,62.0,Valid
+INV-00636,Bluewave Logistics,IT Services,2026-01-17,2026-03-03,Net 60,4378.73,218.94,Valid
+INV-00370,Ironclad Security,Software License,2026-05-23,2026-06-07,Net 45,1939.37,232.72,Valid
+INV-00269,Greenfield Consulting,Security,2025-12-14,2026-01-13,Net 45,4776.34,573.16,Valid
+INV-00656,Everline Facilities,Software License,2025-07-20,2025-08-19,Net 30,1970.0,98.5,Valid
+INV-00936,Falcon Freight Co,Logistics,2026-05-11,2026-06-25,Net 15,866.86,104.02,Valid
+INV-00823,Crestline IT Services,Facilities,2026-05-27,2026-06-11,Net 15,1408.0,253.44,Valid
+INV-00867,Apex Office Supplies,Office Supplies,2025-09-06,2025-10-06,Net 45,1810.76,217.29,Valid
+INV-00047,Junction Marketing Group,Consulting,2025-04-13,2025-04-28,Net 45,2107.58,379.36,Valid
+INV-01289,Crestline IT Services,Security,2025-05-28,2025-06-27,Net 30,1314.32,157.72,Valid
+INV-00992,Horizon Software Inc,Software License,2026-06-30,2026-07-30,Net 60,1463.27,175.59,Valid
+INV-00877,Crestline IT Services,Facilities,2025-01-19,2025-03-05,Net 45,1425.23,256.54,Valid
+INV-00774,Crestline IT Services,Security,2025-09-27,2025-10-27,Net 45,854.62,102.55,Valid
+INV-00005,Falcon Freight Co,Facilities,2025-10-12,2025-11-11,Net 15,1734.28,86.71,Valid
+INV-01004,Everline Facilities,Facilities,2025-03-05,2025-05-04,Net 15,3457.67,414.92,Valid
+INV-01300,Falcon Freight Co,Consulting,2025-04-02,2025-06-01,Net 60,10.0,1.2,Valid
+INV-00264,Horizon Software Inc,IT Services,2026-05-06,2026-06-05,Net 60,1230.21,61.51,Valid
+INV-01182,Ironclad Security,Office Supplies,2025-08-31,2025-10-30,Net 60,2127.28,255.27,Valid
+INV-01395,Horizon Software Inc,Security,2025-08-28,2025-10-27,Net 45,1621.55,291.88,Valid
+INV-00444,Junction Marketing Group,IT Services,2025-03-28,2025-04-27,Net 30,2079.76,249.57,Valid
+INV-01003,Everline Facilities,Logistics,2026-03-14,2026-04-28,Net 15,3014.2,361.7,Valid
+INV-01078,Crestline IT Services,Logistics,2025-06-14,2025-07-29,Net 30,1212.95,60.65,Valid
+INV-00838,Bluewave Logistics,Software License,2026-04-25,2026-05-10,Net 45,4411.14,529.34,Valid
+INV-01470,Junction Marketing Group,Software License,2025-05-07,2025-06-01,Net 45,2795.66,139.78,Duplicate
+INV-00305,Apex Office Supplies,Security,2025-04-03,2025-06-02,Net 30,2259.68,406.74,Valid
+INV-01173,Greenfield Consulting,Logistics,2026-01-08,2026-01-23,Net 30,4382.76,525.93,Valid
+INV-00314,Ironclad Security,Logistics,2026-04-13,2026-05-13,Net 45,2162.73,389.29,Valid
+INV-00150,Junction Marketing Group,Office Supplies,2026-01-28,2026-02-27,Net 45,2569.18,308.3,Valid
+INV-00575,Everline Facilities,Software License,2026-06-17,2026-08-16,Net 15,3247.65,162.38,Valid
+INV-00051,Everline Facilities,Facilities,2025-10-16,2025-11-15,Net 30,3162.12,569.18,Valid
+INV-01170,Apex Office Supplies,Logistics,2025-07-26,2025-08-25,Net 15,2905.59,348.67,Valid
+INV-00727,Crestline IT Services,Office Supplies,2025-06-14,2025-07-14,Net 30,1071.37,192.85,Valid
+INV-00834,Bluewave Logistics,Logistics,2026-06-20,2026-07-05,Net 30,3518.35,175.92,Valid
+INV-01116,Greenfield Consulting,Security,2025-04-25,2025-05-10,Net 60,4350.9,217.54,Valid
+INV-00471,,Software License,2026-01-16,2026-02-15,Net 45,3458.36,172.92,Missing Info
+INV-00972,Crestline IT Services,IT Services,2026-05-14,2026-07-13,Net 30,1385.62,69.28,Valid
+INV-00654,Falcon Freight Co,Facilities,2025-12-30,2026-02-13,Net 15,1442.85,259.71,Valid
+INV-00400,Bluewave Logistics,Consulting,2025-11-03,2025-12-03,Net 60,,612.98,Missing Info
+INV-00512,Bluewave Logistics,Software License,2025-04-08,2025-05-08,Net 15,3818.93,687.41,Valid
+INV-00321,Junction Marketing Group,Security,2025-04-23,2025-05-23,Net 45,2192.92,109.65,Valid
+INV-00020,Falcon Freight Co,Logistics,2025-04-25,2025-06-09,Net 60,10.0,1.2,Valid
+INV-00685,,Marketing,2026-01-31,2026-03-17,Net 15,3522.65,634.08,Missing Info
+INV-00036,Horizon Software Inc,IT Services,2025-09-13,2025-09-28,Net 15,1230.27,147.63,Valid
+INV-00903,Bluewave Logistics,Logistics,2026-06-21,2026-08-20,Net 60,3562.25,641.2,Valid
+INV-00828,Delta Print Solutions,Security,2025-07-11,2025-08-25,Net 45,1031.48,123.78,Valid
+INV-01343,Everline Facilities,Security,2025-03-06,2025-03-21,Net 60,2324.1,116.2,Valid
+INV-00408,Everline Facilities,IT Services,2026-04-01,2026-05-16,Net 30,3783.73,454.05,Valid
+INV-00921,Everline Facilities,Office Supplies,2025-07-18,2025-08-02,Net 60,2596.72,129.84,Valid
+INV-00538,Junction Marketing Group,Office Supplies,2025-11-22,2026-01-06,Net 45,2521.06,453.79,Valid
+INV-00759,Horizon Software Inc,Facilities,2026-01-22,2026-03-23,Net 60,1460.22,73.01,Valid
+INV-01063,Horizon Software Inc,Logistics,2025-02-11,2025-03-28,Net 15,1660.96,199.32,Valid
+INV-00246,,Software License,2026-03-28,2026-05-27,Net 60,2425.67,291.08,Missing Info
+INV-01128,Falcon Freight Co,Marketing,2026-05-21,2026-06-05,Net 60,690.45,82.85,Valid
+INV-00785,,Security,2025-11-29,2026-01-28,Net 15,1323.49,238.23,Missing Info
+INV-00490,Ironclad Security,IT Services,2025-12-01,2026-01-30,Net 45,1641.44,295.46,Valid
+INV-00155,Bluewave Logistics,Security,2025-12-03,2026-02-01,Net 15,3332.26,399.87,Valid
+INV-00962,Bluewave Logistics,Office Supplies,2025-08-11,2025-09-10,Net 30,2535.83,456.45,Valid
+INV-00854,Apex Office Supplies,Software License,2025-12-09,2026-01-23,Net 15,3724.24,446.91,Valid
+INV-00626,Junction Marketing Group,IT Services,2025-05-21,2025-07-20,Net 45,2950.9,147.55,Valid
+INV-00686,Ironclad Security,Office Supplies,2026-01-19,2026-03-20,Net 45,2359.32,283.12,Valid
+INV-00570,Junction Marketing Group,IT Services,2025-08-30,2025-10-29,Net 60,2519.18,302.3,Valid
+INV-01425,Apex Office Supplies,Office Supplies,2025-07-16,2025-08-29,Net 45,3399.53,407.94,Duplicate
+INV-00018,Crestline IT Services,Software License,2026-03-09,2026-03-24,Net 60,980.81,117.7,Valid
+INV-00128,Bluewave Logistics,Consulting,2025-08-28,2025-10-12,Net 60,3889.81,700.17,Valid
+INV-00928,Horizon Software Inc,Marketing,2026-02-28,2026-03-15,Net 45,1295.56,233.2,Valid
+INV-00981,Greenfield Consulting,Logistics,2025-12-28,2026-02-11,Net 15,4692.96,563.16,Valid
+INV-01468,Ironclad Security,Office Supplies,2025-11-06,2026-01-04,Net 15,2109.2,379.66,Duplicate
+INV-00191,Horizon Software Inc,Consulting,2026-01-06,2026-01-21,Net 15,1435.84,172.3,Valid
+INV-01140,Bluewave Logistics,Consulting,2026-06-17,2026-08-16,Net 45,4318.13,518.18,Valid
+INV-00993,Everline Facilities,Marketing,2025-05-29,2025-07-28,Net 60,3830.18,191.51,Valid
+INV-01462,Everline Facilities,Marketing,2025-08-29,2025-10-24,Net 60,3172.68,380.72,Duplicate
+INV-01250,Apex Office Supplies,Facilities,2026-06-25,2026-07-10,Net 15,1103.23,132.39,Valid
+INV-00607,Bluewave Logistics,IT Services,2026-04-27,2026-05-12,Net 60,,858.75,Missing Info
+INV-00181,Junction Marketing Group,Facilities,2026-02-22,2026-04-08,Net 30,2175.18,108.76,Valid
+INV-00302,Crestline IT Services,Software License,2025-04-10,2025-04-25,Net 60,1137.18,136.46,Valid
+INV-00497,Horizon Software Inc,Security,2026-06-08,2026-07-23,Net 30,1263.64,63.18,Valid
+INV-01290,Ironclad Security,Consulting,2026-06-26,2026-07-11,Net 60,1449.21,260.86,Valid
+INV-01254,Junction Marketing Group,Software License,2026-04-25,2026-05-25,Net 60,2819.35,338.32,Valid
+INV-01236,Crestline IT Services,Software License,2026-02-07,2026-02-22,Net 45,1376.45,68.82,Valid
+INV-00518,Horizon Software Inc,IT Services,2025-11-12,2026-01-11,Net 15,1041.64,125.0,Valid
+INV-01070,Everline Facilities,Marketing,2025-03-20,2025-04-04,Net 15,3461.17,173.06,Valid
+INV-00477,Crestline IT Services,Office Supplies,2025-05-27,2025-06-11,Net 30,1218.27,219.29,Valid
+INV-00158,Crestline IT Services,Facilities,2025-11-03,2025-11-18,Net 15,1273.45,63.67,Valid
+INV-01196,Crestline IT Services,Software License,2025-05-01,2025-05-16,Net 60,1057.13,190.28,Valid
+INV-00017,Ironclad Security,IT Services,2026-05-21,2026-06-05,Net 30,1862.78,93.14,Valid
+INV-01073,Apex Office Supplies,Office Supplies,2025-10-26,2025-11-25,Net 30,1987.13,99.36,Valid
+INV-00547,Everline Facilities,Office Supplies,2025-10-29,2025-11-28,Net 60,3723.9,186.2,Valid
+INV-00659,Apex Office Supplies,Software License,2026-06-28,2026-07-13,Net 60,1107.98,199.44,Valid
+INV-01325,Falcon Freight Co,Facilities,2025-08-04,2025-10-03,Net 15,717.71,129.19,Valid
+INV-01020,Falcon Freight Co,Consulting,2025-02-13,2025-04-14,Net 60,1818.67,90.93,Valid
+INV-01332,Delta Print Solutions,Office Supplies,2025-08-28,2025-10-27,Net 45,1421.31,170.56,Valid
+INV-00960,Ironclad Security,Marketing,2025-04-10,2025-06-09,Net 60,986.05,49.3,Valid
+INV-01408,Greenfield Consulting,Facilities,2025-11-24,2025-12-05,Net 60,4112.91,205.65,Duplicate
+INV-00284,Ironclad Security,Logistics,2025-10-25,,Net 45,2163.33,108.17,Missing Info
+INV-00798,Junction Marketing Group,Security,2026-03-22,2026-05-06,Net 30,2503.48,300.42,Valid
+INV-00226,Junction Marketing Group,Facilities,2026-04-05,2026-05-20,Net 30,2408.89,433.6,Valid
+INV-00027,Greenfield Consulting,Security,2026-01-18,2026-03-19,Net 15,,759.1,Missing Info
+INV-00438,Crestline IT Services,Consulting,2026-03-19,2026-05-18,Net 60,1307.53,65.38,Valid
+INV-01456,Bluewave Logistics,Marketing,2026-05-02,2026-05-28,Net 30,3910.18,703.83,Duplicate
+INV-00230,Bluewave Logistics,Office Supplies,2025-04-03,2025-06-02,Net 60,3620.35,434.44,Valid
+INV-00038,Horizon Software Inc,,2026-05-08,2026-06-07,Net 30,1457.91,174.95,Missing Info
+INV-00750,Greenfield Consulting,Office Supplies,2026-06-18,2026-08-02,Net 30,4071.16,732.81,Valid
+INV-01046,,Consulting,2026-01-18,2026-02-17,Net 45,3537.74,424.53,Missing Info
+INV-00470,Crestline IT Services,Facilities,2025-10-08,2025-10-23,Net 45,904.55,162.82,Valid
+INV-01277,Everline Facilities,Facilities,2025-03-28,2025-04-12,Net 60,3201.4,576.25,Valid
+INV-01471,Apex Office Supplies,Office Supplies,2025-06-11,2025-07-09,Net 15,3019.02,543.42,Duplicate
+INV-00688,Bluewave Logistics,Software License,2025-08-04,2025-09-03,Net 15,3062.9,551.32,Valid
+INV-01377,Apex Office Supplies,Security,2025-10-14,2025-11-13,Net 30,3726.68,670.8,Valid
+INV-00640,Junction Marketing Group,Office Supplies,2026-01-24,2026-03-10,Net 30,2461.75,443.12,Valid
+INV-01293,Apex Office Supplies,Facilities,2026-06-20,2026-07-20,Net 45,3016.68,150.83,Valid
+INV-01219,Falcon Freight Co,Office Supplies,2025-04-19,2025-06-03,Net 15,10.0,0.5,Valid
+INV-01159,Junction Marketing Group,Facilities,2025-04-05,2025-04-20,Net 45,2214.65,398.64,Valid
+INV-01303,Delta Print Solutions,Office Supplies,2025-02-24,2025-03-26,Net 15,,39.7,Missing Info
+INV-01362,Junction Marketing Group,Facilities,2025-12-10,2026-01-24,Net 30,2759.74,331.17,Valid
+INV-00801,Everline Facilities,Security,2026-04-26,2026-05-11,Net 60,3364.09,605.54,Valid
+INV-00161,Junction Marketing Group,Logistics,2026-01-27,2026-02-26,Net 30,2447.7,293.72,Valid
+INV-00957,Junction Marketing Group,Software License,2025-09-07,2025-10-07,Net 15,2699.19,323.9,Valid
+INV-01187,Falcon Freight Co,Office Supplies,2026-03-07,2026-04-21,Net 15,687.89,82.55,Valid
+INV-00822,Junction Marketing Group,IT Services,2026-05-02,2026-06-01,Net 30,2140.39,256.85,Valid
+INV-01269,Greenfield Consulting,Software License,2026-01-05,2026-02-04,Net 30,4050.57,202.53,Valid
+INV-00878,Everline Facilities,Marketing,2025-08-30,2025-10-14,Net 60,3901.51,195.08,Valid
+INV-00914,Horizon Software Inc,Marketing,2026-01-04,2026-01-19,Net 45,1303.2,65.16,Valid
+INV-00153,Ironclad Security,Logistics,2026-04-13,2026-04-28,Net 60,1754.41,315.79,Valid
+INV-01372,Bluewave Logistics,Security,2025-12-13,2026-01-12,Net 30,4604.49,552.54,Valid
+INV-00510,Horizon Software Inc,Marketing,2025-03-03,2025-04-02,Net 15,906.01,163.08,Valid
+INV-01136,Horizon Software Inc,Security,2026-06-08,2026-07-23,Net 15,826.41,41.32,Valid
+INV-01256,Bluewave Logistics,Consulting,2026-05-10,2026-06-09,Net 30,4110.15,205.51,Valid
+INV-00104,Greenfield Consulting,IT Services,2025-10-02,2025-11-16,Net 45,4432.95,221.65,Valid
+INV-00587,Apex Office Supplies,Office Supplies,2025-09-13,2025-09-28,Net 45,2851.11,342.13,Valid
+INV-01327,Greenfield Consulting,IT Services,2026-05-16,2026-07-15,Net 15,4354.63,783.83,Valid
+INV-01144,Ironclad Security,Software License,2025-11-07,2025-12-07,Net 30,1717.29,206.07,Valid
+INV-00054,Everline Facilities,Software License,2025-06-15,2025-08-14,Net 15,2820.75,507.73,Valid
+INV-00152,Apex Office Supplies,Security,2025-05-10,2025-06-24,Net 15,3637.43,181.87,Valid
+INV-00404,Horizon Software Inc,Software License,2026-05-18,2026-06-17,Net 60,1333.63,160.04,Valid
+INV-01453,Bluewave Logistics,Office Supplies,2026-03-26,2026-04-24,Net 30,4001.19,200.06,Duplicate
+INV-00208,Ironclad Security,Security,2025-08-09,2025-10-08,Net 45,1115.42,133.85,Valid
+INV-01416,Horizon Software Inc,Security,2026-01-03,2026-03-02,Net 15,1823.06,218.77,Duplicate
+INV-01123,Crestline IT Services,Security,2025-01-05,2025-01-20,Net 45,1327.06,66.35,Valid
+INV-00009,Delta Print Solutions,IT Services,2025-10-24,2025-11-08,Net 60,376.87,18.84,Valid
+INV-01015,Horizon Software Inc,Office Supplies,2025-10-24,2025-11-23,Net 60,1259.43,62.97,Valid
+INV-01342,Greenfield Consulting,Logistics,2025-03-18,2025-04-17,Net 45,4343.41,217.17,Valid
+INV-01061,Junction Marketing Group,Facilities,2025-08-01,2025-08-16,Net 15,1970.77,354.74,Valid
+INV-00453,Ironclad Security,IT Services,2026-06-08,2026-06-23,Net 45,1621.17,291.81,Valid
+INV-00254,Horizon Software Inc,Marketing,2025-01-06,2025-01-21,Net 30,1348.07,67.4,Valid
+INV-00897,Greenfield Consulting,Logistics,2025-11-08,2025-12-23,Net 60,4308.0,516.96,Valid
+INV-01329,Greenfield Consulting,Office Supplies,2026-01-02,2026-03-03,Net 15,,224.1,Missing Info
+INV-00881,Delta Print Solutions,,2025-06-06,2025-08-05,Net 60,643.34,77.2,Missing Info
+INV-01429,Junction Marketing Group,IT Services,2025-05-24,2025-07-20,Net 45,2950.9,147.55,Duplicate
+INV-00624,Bluewave Logistics,Logistics,2025-09-16,2025-11-15,Net 30,3121.75,561.91,Valid
+INV-00346,Falcon Freight Co,IT Services,2025-08-30,2025-09-14,Net 60,1786.54,321.58,Valid
+INV-01285,Falcon Freight Co,Software License,2026-04-11,2026-04-26,Net 60,72.23,3.61,Valid
+INV-00263,Crestline IT Services,Facilities,2025-02-15,2025-04-01,Net 30,1216.69,219.0,Valid
+INV-00151,Horizon Software Inc,,2026-01-26,2026-03-27,Net 60,1505.96,271.07,Missing Info
+INV-00473,Delta Print Solutions,Consulting,2026-05-04,2026-05-19,Net 60,1953.04,97.65,Valid
+INV-00641,Horizon Software Inc,Security,2026-05-15,2026-05-30,Net 15,1321.39,158.57,Valid
+INV-01487,Junction Marketing Group,Logistics,2025-03-06,2025-05-04,Net 30,2522.67,454.08,Duplicate
+INV-01409,Greenfield Consulting,Facilities,2026-02-03,2026-04-02,Net 15,4152.8,747.5,Duplicate
+INV-00551,Horizon Software Inc,Consulting,2025-01-12,2025-02-26,Net 15,852.74,42.64,Valid
+INV-00929,Ironclad Security,Facilities,2025-01-20,2025-02-19,Net 45,2732.08,491.77,Valid
+INV-00489,Bluewave Logistics,Consulting,2025-11-14,2025-11-29,Net 30,3456.25,622.12,Valid
+INV-01355,Falcon Freight Co,Security,2026-03-08,2026-05-07,Net 30,457.92,82.43,Valid
+INV-01172,Apex Office Supplies,Marketing,2025-02-26,2025-03-13,Net 15,2013.47,241.62,Valid
+INV-00147,Falcon Freight Co,Marketing,2026-06-04,2026-07-19,Net 45,1495.1,74.75,Valid
+INV-00403,Bluewave Logistics,Office Supplies,2025-12-15,2026-02-13,Net 45,4406.1,528.73,Valid
+INV-00955,Greenfield Consulting,IT Services,2025-04-20,2025-06-04,Net 45,4277.84,770.01,Valid
+INV-01404,Greenfield Consulting,Software License,2026-02-18,2026-03-03,Net 30,4206.58,757.18,Duplicate
+INV-00660,Ironclad Security,Logistics,2025-07-01,2025-07-31,Net 15,1505.59,271.01,Valid
+INV-00464,Horizon Software Inc,IT Services,2025-12-02,2025-12-17,Net 60,1573.9,283.3,Valid
+INV-00187,Junction Marketing Group,Logistics,2025-01-03,2025-02-17,Net 45,2772.85,138.64,Valid
+INV-01148,Apex Office Supplies,Facilities,2025-02-16,2025-03-18,Net 15,925.88,111.11,Valid
+INV-01225,Everline Facilities,Security,2025-06-07,2025-06-22,Net 60,2979.19,357.5,Valid
+INV-00609,Greenfield Consulting,Consulting,2025-02-25,2025-03-27,Net 45,4642.12,232.11,Valid
+INV-00144,Horizon Software Inc,Marketing,2025-05-01,2025-05-31,Net 45,1468.16,176.18,Valid
+INV-00752,Apex Office Supplies,Logistics,2026-06-07,2026-07-07,Net 15,3540.98,637.38,Valid
+INV-00982,Junction Marketing Group,Security,2025-11-08,2025-12-23,Net 30,2638.48,131.92,Valid
+INV-00198,Greenfield Consulting,Software License,2026-03-02,2026-03-17,Net 45,4407.95,528.95,Valid
+INV-00884,Falcon Freight Co,Facilities,2025-03-11,2025-03-26,Net 30,10.0,0.5,Valid
+INV-00280,Crestline IT Services,IT Services,2026-05-27,2026-07-26,Net 45,1057.13,190.28,Valid
+INV-00294,Ironclad Security,Facilities,2025-06-22,2025-07-22,Net 15,1774.6,88.73,Valid
+INV-01363,Bluewave Logistics,Consulting,2026-04-11,2026-04-26,Net 15,3479.62,417.55,Valid
+INV-00401,Ironclad Security,Logistics,2025-12-06,2026-02-04,Net 15,2593.99,466.92,Valid
+INV-00123,Horizon Software Inc,Software License,2026-03-30,2026-05-14,Net 45,1504.01,270.72,Valid
+INV-01208,Crestline IT Services,Office Supplies,2025-09-24,2025-10-09,Net 30,1288.65,154.64,Valid
+INV-00203,Bluewave Logistics,Security,2026-06-04,2026-07-04,Net 30,3542.04,177.1,Valid
+INV-00836,Apex Office Supplies,Marketing,2026-02-02,2026-04-03,Net 15,1760.21,316.84,Valid
+INV-00247,Crestline IT Services,Office Supplies,2025-07-24,2025-08-23,Net 60,524.02,62.88,Valid
+INV-01421,Ironclad Security,Office Supplies,2026-04-15,2026-04-25,Net 45,2122.13,254.66,Duplicate
+INV-01407,Greenfield Consulting,IT Services,2025-10-07,2025-11-16,Net 45,4432.95,221.65,Duplicate
+INV-01154,Junction Marketing Group,Software License,2025-01-23,2025-03-09,Net 45,2703.07,324.37,Valid
+INV-00385,Horizon Software Inc,Facilities,2026-05-18,2026-07-17,Net 30,954.07,47.7,Valid
+INV-01321,Everline Facilities,Consulting,2025-09-14,2025-11-13,Net 45,2839.64,340.76,Valid
+INV-00855,Delta Print Solutions,Marketing,2025-01-12,2025-03-13,Net 15,636.39,31.82,Valid
+INV-00220,Crestline IT Services,Software License,2026-04-17,2026-06-01,Net 15,1334.7,66.73,Valid
+INV-00642,Bluewave Logistics,Consulting,2025-09-25,2025-11-09,Net 45,3781.45,189.07,Valid
+INV-00002,Bluewave Logistics,Office Supplies,2025-03-31,2025-05-30,Net 15,3957.09,197.85,Valid
+INV-00113,Everline Facilities,Consulting,2025-09-15,2025-10-15,Net 45,3264.37,163.22,Valid
+INV-00699,Apex Office Supplies,IT Services,2025-01-06,2025-03-07,Net 45,2156.62,388.19,Valid
+INV-01430,Bluewave Logistics,Consulting,2025-11-19,2025-11-29,Net 30,3456.25,622.12,Duplicate
+INV-00952,Greenfield Consulting,Security,2025-07-07,2025-08-21,Net 60,4693.77,563.25,Valid
+INV-01316,Greenfield Consulting,IT Services,2025-08-28,2025-09-12,Net 30,,545.88,Missing Info
+INV-01292,Junction Marketing Group,Facilities,2026-02-23,2026-03-10,Net 45,,122.05,Missing Info
+INV-01352,Junction Marketing Group,Office Supplies,2025-04-14,2025-05-29,Net 60,2160.17,388.83,Valid
+INV-00442,Ironclad Security,Software License,2025-11-17,2026-01-16,Net 15,1385.29,249.35,Valid
+INV-01137,Bluewave Logistics,Consulting,2025-09-14,2025-11-13,Net 30,3462.31,415.48,Valid
+INV-01257,Junction Marketing Group,Security,2026-05-19,2026-06-03,Net 45,2111.84,253.42,Valid
+INV-00664,Delta Print Solutions,Facilities,2025-08-03,2025-09-17,Net 30,,298.71,Missing Info
+INV-01371,Everline Facilities,Logistics,2025-04-14,2025-04-29,Net 60,3980.4,716.47,Valid
+INV-01258,Delta Print Solutions,Facilities,2025-08-03,2025-08-18,Net 45,537.89,26.89,Valid
+INV-01330,Horizon Software Inc,Office Supplies,2026-01-15,2026-02-14,Net 30,979.09,117.49,Valid
+INV-00318,Junction Marketing Group,Security,2025-11-12,2025-11-27,Net 45,2237.99,402.84,Valid
+INV-00649,Falcon Freight Co,Office Supplies,2025-05-02,2025-07-01,Net 15,37.37,6.73,Valid
+INV-00710,Junction Marketing Group,Consulting,2025-03-25,,Net 45,2387.85,119.39,Missing Info
+INV-01283,Junction Marketing Group,Marketing,2025-08-28,2025-10-12,Net 30,2525.0,303.0,Valid
+INV-00973,Greenfield Consulting,Logistics,2026-04-12,2026-06-11,Net 60,4191.05,754.39,Valid
+INV-00628,Ironclad Security,Software License,2025-07-26,2025-09-09,Net 45,1166.63,209.99,Valid
+INV-00633,Apex Office Supplies,Marketing,2025-04-13,2025-05-13,Net 45,2008.65,100.43,Valid
+INV-01307,Crestline IT Services,Facilities,2026-03-01,2026-03-16,Net 60,1187.34,213.72,Valid
+INV-01249,Horizon Software Inc,Security,2026-02-14,2026-04-15,Net 30,1356.89,244.24,Valid
+INV-01497,Horizon Software Inc,Logistics,2026-06-05,2026-06-18,Net 30,1263.12,151.57,Duplicate
+INV-01255,Falcon Freight Co,Consulting,2026-04-29,2026-05-29,Net 45,1442.69,259.68,Valid
+INV-01382,Delta Print Solutions,Software License,2026-02-10,2026-03-12,Net 60,75.1,9.01,Valid
+INV-00796,Apex Office Supplies,Security,2026-01-01,2026-02-15,Net 45,1848.82,221.86,Valid
+INV-00646,Horizon Software Inc,Marketing,2025-11-25,2025-12-25,Net 15,1193.32,143.2,Valid
+INV-01013,Junction Marketing Group,Marketing,2026-01-03,2026-02-17,Net 60,2630.18,473.43,Valid
+INV-00557,Greenfield Consulting,IT Services,2025-06-14,2025-06-29,Net 45,4327.28,778.91,Valid
+INV-00682,Falcon Freight Co,Consulting,2025-12-06,2026-01-20,Net 60,10.0,1.2,Valid
+INV-00578,Everline Facilities,Security,2026-01-28,2026-03-29,Net 15,3403.76,612.68,Valid
+INV-01110,,Logistics,2025-06-16,2025-07-01,Net 30,10.0,0.5,Missing Info
+INV-01267,Delta Print Solutions,Consulting,2026-03-26,2026-05-25,Net 60,1261.53,63.08,Valid
+INV-01184,Crestline IT Services,Software License,2026-03-26,2026-05-10,Net 15,1487.46,267.74,Valid
+INV-00525,Horizon Software Inc,IT Services,2025-05-12,2025-05-27,Net 15,1509.07,181.09,Valid
+INV-01060,Greenfield Consulting,Software License,2025-12-07,2025-12-22,Net 45,4123.23,494.79,Valid
+INV-00541,Apex Office Supplies,Facilities,2026-06-24,2026-08-23,Net 30,1812.17,90.61,Valid
+INV-01195,Greenfield Consulting,IT Services,2026-03-16,2026-04-30,Net 45,3936.72,196.84,Valid
+INV-00749,Delta Print Solutions,Office Supplies,2026-01-15,2026-01-30,Net 60,1573.13,283.16,Valid
+INV-01385,Junction Marketing Group,Facilities,2025-02-12,2025-04-13,Net 60,2125.64,382.62,Valid
+INV-00485,Greenfield Consulting,Logistics,2026-03-07,2026-04-21,Net 60,4476.27,805.73,Valid
+INV-00096,Crestline IT Services,Consulting,2026-04-30,2026-05-15,Net 60,1196.54,215.38,Valid
+INV-01021,Ironclad Security,Office Supplies,2025-06-02,2025-07-02,Net 30,1296.25,64.81,Valid
+INV-00564,Horizon Software Inc,Security,2025-04-29,2025-06-13,Net 60,1579.43,189.53,Valid
+INV-01265,Falcon Freight Co,Security,2025-06-10,2025-07-25,Net 60,696.65,125.4,Valid
+INV-00743,Junction Marketing Group,Software License,2025-10-10,2025-12-09,Net 60,2182.93,109.15,Valid
+INV-00864,Falcon Freight Co,Logistics,2025-12-19,2026-01-03,Net 45,1518.31,182.2,Valid
+INV-00892,Delta Print Solutions,Security,2025-03-09,2025-04-08,Net 45,1288.47,154.62,Valid
+INV-01039,Delta Print Solutions,Security,2026-03-22,2026-05-06,Net 15,372.68,44.72,Valid
+INV-00207,Junction Marketing Group,Office Supplies,2026-02-15,2026-03-02,Net 15,2652.28,132.61,Valid
+INV-00393,Bluewave Logistics,Consulting,2026-01-18,2026-03-19,Net 30,3856.41,462.77,Valid
+INV-00795,Horizon Software Inc,Logistics,2025-05-10,2025-06-09,Net 15,1275.53,229.6,Valid
+INV-00871,Crestline IT Services,Marketing,2025-03-03,2025-04-17,Net 15,1324.24,66.21,Valid
+INV-00398,Apex Office Supplies,Office Supplies,2025-03-18,2025-05-02,Net 30,3163.49,569.43,Valid
+INV-00767,Bluewave Logistics,Security,2025-05-03,2025-05-18,Net 15,3991.32,718.44,Valid
+INV-01375,Falcon Freight Co,Consulting,2025-11-22,2026-01-21,Net 15,950.92,171.17,Valid
+INV-01242,Crestline IT Services,Office Supplies,2025-01-15,2025-02-14,Net 30,1289.74,64.49,Valid
+INV-01029,Horizon Software Inc,IT Services,2025-09-07,2025-09-22,Net 60,1278.79,63.94,Valid
+INV-00643,Ironclad Security,Consulting,2026-06-20,2026-07-05,Net 60,1961.66,235.4,Valid
+INV-00613,Bluewave Logistics,,2025-05-13,2025-07-12,Net 60,3822.9,688.12,Missing Info
+INV-00961,Bluewave Logistics,Security,2025-04-22,2025-06-21,Net 15,3559.2,427.1,Valid
+INV-00726,Delta Print Solutions,Consulting,2025-06-15,2025-08-14,Net 15,10.0,0.5,Valid
+INV-00684,Delta Print Solutions,Facilities,2025-09-07,2025-09-22,Net 60,630.78,113.54,Valid
+INV-00099,Delta Print Solutions,Marketing,2025-03-19,2025-04-18,Net 15,625.51,31.28,Valid
+INV-00805,Bluewave Logistics,Marketing,2026-03-09,2026-04-08,Net 45,3525.47,634.58,Valid
+INV-00407,Greenfield Consulting,IT Services,2025-11-21,2026-01-05,Net 15,4184.09,209.2,Valid
+INV-00503,Ironclad Security,Office Supplies,2025-02-23,2025-03-25,Net 60,1915.51,95.78,Valid
+INV-01072,Greenfield Consulting,Software License,2025-05-16,2025-07-15,Net 60,4305.36,516.64,Valid
+INV-01057,Bluewave Logistics,Marketing,2025-01-17,2025-03-18,Net 30,3833.85,690.09,Valid
+INV-00930,Bluewave Logistics,Facilities,2025-06-02,2025-07-17,Net 60,3238.53,161.93,Valid
+INV-00780,Ironclad Security,Marketing,2025-11-20,2026-01-19,Net 15,2361.26,283.35,Valid
+INV-00201,Crestline IT Services,IT Services,2025-03-03,2025-04-17,Net 60,1040.41,187.27,Valid
+INV-00135,,Security,2026-03-23,2026-05-22,Net 45,1254.49,62.72,Missing Info
+INV-01052,Delta Print Solutions,Consulting,2025-09-11,2025-10-26,Net 30,1581.3,189.76,Valid
+INV-00041,Apex Office Supplies,Office Supplies,2025-03-04,2025-04-18,Net 60,1543.01,77.15,Valid
+INV-01018,Apex Office Supplies,IT Services,2025-09-02,2025-11-01,Net 45,2680.86,321.7,Valid
+INV-00231,Junction Marketing Group,Security,2025-07-12,2025-08-26,Net 30,2299.44,413.9,Valid
+INV-00379,Delta Print Solutions,Security,2025-11-26,2026-01-10,Net 45,1594.44,191.33,Valid
+INV-00289,Falcon Freight Co,Facilities,2025-03-17,2025-05-16,Net 30,576.35,69.16,Valid
+INV-00419,Falcon Freight Co,Logistics,2025-07-25,2025-09-23,Net 60,1762.87,211.54,Valid
+INV-00392,Delta Print Solutions,Marketing,2025-07-16,2025-08-30,Net 60,660.81,79.3,Valid
+INV-00593,Apex Office Supplies,Logistics,2026-05-01,2026-05-31,Net 15,823.82,148.29,Valid
+INV-01163,Apex Office Supplies,Security,2026-06-13,2026-07-13,Net 30,1428.66,257.16,Valid
+INV-01087,Falcon Freight Co,Consulting,2025-04-05,,Net 30,2219.34,110.97,Missing Info
+INV-00648,Horizon Software Inc,Security,2026-03-31,2026-05-30,Net 60,1194.1,59.7,Valid
+INV-01153,Horizon Software Inc,Office Supplies,2026-03-09,2026-05-08,Net 60,1454.04,174.48,Valid
+INV-01368,Junction Marketing Group,Consulting,2026-01-04,2026-01-19,Net 30,2259.7,112.98,Valid
+INV-00521,Everline Facilities,Security,2025-06-28,2025-07-13,Net 30,2692.51,323.1,Valid
+INV-00065,Junction Marketing Group,Software License,2025-09-29,2025-10-14,Net 45,2377.0,118.85,Valid
+INV-00015,Horizon Software Inc,Consulting,2025-05-27,2025-07-11,Net 45,1180.79,59.04,Valid
+INV-01181,Everline Facilities,Facilities,2026-01-29,2026-03-15,Net 15,3193.32,574.8,Valid
+INV-01065,Horizon Software Inc,Facilities,2025-08-03,2025-09-02,Net 45,1238.59,148.63,Valid
+INV-00493,Apex Office Supplies,Security,2025-05-21,2025-06-05,Net 45,2222.57,111.13,Valid
+INV-00380,Everline Facilities,Security,2025-09-25,2025-11-09,Net 60,2925.55,526.6,Valid
+INV-00188,Crestline IT Services,Office Supplies,2025-04-23,2025-05-08,Net 45,1422.54,71.13,Valid
+INV-00764,Falcon Freight Co,Marketing,2025-12-29,2026-01-28,Net 30,1076.09,193.7,Valid
+INV-00217,Ironclad Security,Office Supplies,2025-12-29,2026-01-13,Net 60,1890.39,226.85,Valid
+INV-00792,Bluewave Logistics,Office Supplies,2025-03-07,2025-05-06,Net 15,3545.47,638.18,Valid
+INV-01077,Everline Facilities,Marketing,2025-02-18,2025-03-20,Net 60,3638.43,436.61,Valid
+INV-00879,Apex Office Supplies,Facilities,2025-10-14,2025-11-13,Net 60,3243.47,162.17,Valid
+INV-00338,Everline Facilities,IT Services,2025-02-08,2025-02-23,Net 45,3109.75,373.17,Valid
+INV-00720,Junction Marketing Group,Software License,2025-06-28,2025-08-27,Net 45,2587.36,465.72,Valid
+INV-00296,,Marketing,2026-03-03,2026-03-18,Net 45,2777.63,333.32,Missing Info
+INV-01017,Bluewave Logistics,Office Supplies,2026-03-25,2026-04-24,Net 30,4001.19,200.06,Valid
+INV-01276,Delta Print Solutions,Software License,2026-03-29,2026-05-13,Net 30,2522.24,454.0,Valid
+INV-00456,Everline Facilities,IT Services,2025-12-23,2026-01-07,Net 30,1833.88,220.07,Valid
+INV-01495,Horizon Software Inc,Office Supplies,2025-09-15,2025-11-09,Net 60,1465.63,175.88,Duplicate
+INV-00816,Apex Office Supplies,IT Services,2025-07-23,2025-09-21,Net 30,1482.2,266.8,Valid
+INV-00270,Ironclad Security,Software License,2025-10-01,2025-10-16,Net 15,956.82,172.23,Valid
+INV-00996,Everline Facilities,Consulting,2026-02-05,2026-04-06,Net 30,3322.72,598.09,Valid
+INV-00202,Falcon Freight Co,Marketing,2026-03-10,2026-03-25,Net 45,408.16,48.98,Valid
+INV-00162,Horizon Software Inc,Office Supplies,2025-09-18,2025-11-17,Net 60,1650.18,198.02,Valid
+INV-00730,Crestline IT Services,Logistics,2025-08-13,2025-10-12,Net 30,1050.26,189.05,Valid
+INV-00402,Ironclad Security,Software License,2025-12-21,2026-01-05,Net 30,1923.15,96.16,Valid
+INV-00703,Bluewave Logistics,Security,2025-09-14,2025-09-29,Net 45,3605.24,180.26,Valid
+INV-01130,Greenfield Consulting,Facilities,2025-07-13,2025-07-28,Net 30,4249.87,509.98,Valid
+INV-00566,Falcon Freight Co,Marketing,2025-07-11,2025-09-09,Net 60,269.15,13.46,Valid
+INV-01414,Bluewave Logistics,Logistics,2025-12-30,2026-01-25,Net 45,3809.42,685.7,Duplicate
+INV-01022,Horizon Software Inc,Office Supplies,2025-01-20,,Net 30,983.77,177.08,Missing Info
+INV-01026,Falcon Freight Co,Logistics,2026-02-16,2026-04-02,Net 45,235.19,11.76,Valid
+INV-01412,Ironclad Security,Facilities,2025-03-30,2025-04-13,Net 30,902.91,45.15,Duplicate
+INV-01105,Falcon Freight Co,Facilities,2025-06-17,2025-07-02,Net 60,1453.77,174.45,Valid
+INV-00206,Everline Facilities,Logistics,2025-12-14,2026-01-28,Net 30,2092.78,104.64,Valid
+INV-00035,Delta Print Solutions,Logistics,2026-04-05,2026-05-05,Net 45,990.28,118.83,Valid
+INV-00776,Falcon Freight Co,Security,2026-01-09,2026-03-10,Net 30,754.41,90.53,Valid
+INV-00509,Everline Facilities,Consulting,2025-04-17,2025-05-17,Net 60,2750.38,495.07,Valid
+INV-01474,Horizon Software Inc,Marketing,2025-05-04,2025-05-31,Net 45,1468.16,176.18,Duplicate
+INV-01391,Delta Print Solutions,Marketing,2025-12-04,2026-01-18,Net 30,10.0,1.2,Valid
+INV-00092,Greenfield Consulting,Facilities,2025-12-02,2026-01-01,Net 45,4289.4,514.73,Valid
+INV-01364,Delta Print Solutions,Consulting,2025-08-24,2025-10-23,Net 30,2051.13,369.2,Valid
+INV-00898,Everline Facilities,Security,2025-02-25,2025-03-27,Net 15,4144.63,497.36,Valid
+INV-00565,Everline Facilities,Facilities,2025-04-04,2025-06-03,Net 60,3406.64,170.33,Valid
+INV-01370,Ironclad Security,Office Supplies,2025-09-09,2025-10-09,Net 30,2008.96,100.45,Valid
+INV-00777,Junction Marketing Group,Marketing,2025-05-15,2025-06-14,Net 30,2526.27,126.31,Valid
+INV-00242,Junction Marketing Group,Logistics,2025-05-15,2025-07-14,Net 30,2228.72,111.44,Valid
+INV-00014,Bluewave Logistics,Security,2025-08-05,2025-09-19,Net 60,3642.57,182.13,Valid
+INV-00316,Ironclad Security,Marketing,2026-06-06,2026-08-05,Net 60,1449.78,260.96,Valid
+INV-00601,Horizon Software Inc,Software License,2025-10-30,2025-12-14,Net 60,1343.2,161.18,Valid
+INV-00388,Bluewave Logistics,Security,2025-06-04,2025-06-19,Net 45,3818.36,190.92,Valid
+INV-01298,Falcon Freight Co,Logistics,2026-01-22,2026-03-23,Net 30,1027.13,184.88,Valid
+INV-00167,Junction Marketing Group,Facilities,2026-05-24,2026-07-08,Net 30,2118.35,105.92,Valid
+INV-00841,Delta Print Solutions,Logistics,2025-07-17,2025-08-16,Net 60,173.46,31.22,Valid
+INV-00021,Apex Office Supplies,IT Services,2025-09-27,2025-10-27,Net 45,2345.32,422.16,Valid
+INV-00647,Ironclad Security,Consulting,2025-08-17,2025-10-16,Net 15,1853.78,222.45,Valid
+INV-01155,Junction Marketing Group,Consulting,2025-04-11,2025-06-10,Net 45,2674.36,133.72,Valid
+INV-00832,Bluewave Logistics,Security,2026-02-01,2026-03-03,Net 30,5068.42,912.32,Valid
+INV-01268,Falcon Freight Co,Marketing,2025-10-21,2025-11-20,Net 45,1337.84,66.89,Valid
+INV-00563,Bluewave Logistics,Marketing,2025-01-27,2025-02-26,Net 15,3026.5,151.33,Valid
+INV-01459,Apex Office Supplies,Security,2025-10-18,2025-11-13,Net 30,3726.68,670.8,Duplicate
+INV-00687,Delta Print Solutions,Logistics,2025-11-25,2025-12-10,Net 15,263.88,13.19,Valid
+INV-00958,Falcon Freight Co,Facilities,2025-08-02,2025-10-01,Net 30,84.28,10.11,Valid
+INV-00190,Crestline IT Services,IT Services,2026-03-08,2026-03-23,Net 60,1005.89,181.06,Valid
+INV-00976,Ironclad Security,Facilities,2025-10-03,2025-12-02,Net 15,914.93,164.69,Valid
+INV-00700,Delta Print Solutions,Logistics,2025-12-19,2026-01-18,Net 30,1540.66,184.88,Valid
+INV-00511,Apex Office Supplies,Facilities,2025-08-26,2025-10-25,Net 60,939.55,169.12,Valid
+INV-01083,Crestline IT Services,Office Supplies,2026-04-15,2026-05-30,Net 45,1393.78,69.69,Valid
+INV-00475,Horizon Software Inc,IT Services,2025-03-14,2025-04-13,Net 15,1316.39,157.97,Valid
+INV-00857,Apex Office Supplies,IT Services,2026-02-07,2026-04-08,Net 30,1129.56,203.32,Valid
+INV-00748,Crestline IT Services,IT Services,2026-04-28,2026-06-27,Net 45,1181.99,59.1,Valid
+INV-00253,Crestline IT Services,Logistics,2025-02-09,2025-03-26,Net 60,1110.03,133.2,Valid
+INV-00022,Ironclad Security,Logistics,2025-07-23,2025-08-22,Net 15,953.28,114.39,Valid
+INV-01338,Greenfield Consulting,Security,2026-02-21,2026-04-07,Net 60,4434.75,221.74,Valid
+INV-00460,Crestline IT Services,Logistics,2026-02-26,2026-03-13,Net 30,1149.99,138.0,Valid
+INV-01185,Everline Facilities,Software License,2025-03-24,2025-05-23,Net 45,3279.61,393.55,Valid
+INV-00277,Greenfield Consulting,Security,2025-02-03,2025-03-05,Net 45,4099.45,737.9,Valid
+INV-00956,Ironclad Security,Software License,2026-04-18,2026-06-17,Net 30,1550.81,279.15,Valid
+INV-01216,Crestline IT Services,Consulting,2025-06-22,2025-08-06,Net 15,915.53,164.8,Valid
+INV-00386,Crestline IT Services,Office Supplies,2026-05-16,2026-06-15,Net 15,1076.7,193.81,Valid
+INV-00806,Ironclad Security,IT Services,2025-10-03,2025-12-02,Net 30,2527.72,126.39,Valid
+INV-01438,Horizon Software Inc,Marketing,2025-05-21,2025-06-02,Net 45,1747.84,314.61,Duplicate
+INV-00344,Delta Print Solutions,Consulting,2025-01-07,2025-02-21,Net 60,177.08,21.25,Valid
+INV-00770,Delta Print Solutions,Software License,2025-05-12,2025-05-27,Net 60,1524.76,274.46,Valid
+INV-01333,Horizon Software Inc,Software License,2025-08-03,2025-08-18,Net 15,1006.04,50.3,Valid
+INV-00131,Bluewave Logistics,Software License,2026-04-25,2026-06-09,Net 45,3151.92,567.35,Valid
+INV-00872,Horizon Software Inc,Marketing,2025-01-09,2025-01-24,Net 45,1236.16,148.34,Valid
+INV-01124,Junction Marketing Group,IT Services,2025-07-09,2025-09-07,Net 30,2656.81,478.23,Valid
+INV-01397,Horizon Software Inc,Logistics,2026-04-06,2026-04-21,Net 30,1422.33,170.68,Valid
+INV-00088,Ironclad Security,Marketing,2025-08-14,2025-10-13,Net 60,1494.16,74.71,Valid
+INV-01483,Ironclad Security,Software License,2026-04-28,2026-06-10,Net 60,1958.4,97.92,Duplicate
+INV-00331,Horizon Software Inc,Marketing,2025-08-08,2025-09-07,Net 45,987.49,177.75,Valid
+INV-01239,Greenfield Consulting,IT Services,2025-01-19,2025-02-03,Net 15,4551.24,546.15,Valid
+INV-00467,Junction Marketing Group,Office Supplies,2026-05-12,2026-06-26,Net 15,1955.62,352.01,Valid
+INV-00122,Delta Print Solutions,Consulting,2025-05-02,2025-07-01,Net 60,533.9,96.1,Valid
+INV-01045,Greenfield Consulting,Security,2025-05-29,2025-06-28,Net 30,4437.87,798.82,Valid
+INV-01096,Apex Office Supplies,Logistics,2026-02-24,2026-04-10,Net 60,2351.88,282.23,Valid
+INV-01131,Apex Office Supplies,Security,2026-05-19,2026-06-03,Net 15,1346.23,161.55,Valid
+INV-01295,Crestline IT Services,Marketing,2026-03-08,2026-03-23,Net 30,1196.85,143.62,Valid
+INV-00861,Horizon Software Inc,Consulting,2025-07-22,2025-09-20,Net 30,1200.0,144.0,Valid
+INV-01460,Greenfield Consulting,Security,2026-05-22,2026-07-18,Net 60,4191.05,754.39,Duplicate
+INV-01127,Horizon Software Inc,Office Supplies,2026-01-05,2026-02-19,Net 15,1283.94,231.11,Valid
